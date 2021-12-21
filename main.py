@@ -116,5 +116,4 @@ class Refine:
         path = os.replace(file, location)
 
 if __name__ == '__main__':
-    Refine = Refine()
-    Refine.run()
+    Refine().run()
