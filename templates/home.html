@@ -57,9 +57,9 @@
         </div>
     </form>
     </br>
-    
-    <form align="center" class="grid"  enctype="multipart/form-data" action="{{ url_for('download', filename='refined.srt') }}" method="GET">
-        <a href="/uploads/refined.srt"><button type="submit" class="btn btn-success">Download</button></a>
+    <!--action="{{ url_for('.download', filename='refined.srt') }}" -->
+    <form align="center" class="grid"  enctype="multipart/form-data" action="{{ url_for('.download')}}"  method="GET">
+        <a><button type="submit" class="btn btn-success">Download</button></a>
     </form>
 
     <script

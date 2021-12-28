@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template, request, flash, redirect, url_for, send_from_directory, current_app
+from flask import Flask, render_template, request, flash, redirect, url_for, send_file, send_from_directory, send_file, current_app
 from werkzeug.utils import secure_filename
 from main import Refine
 
@@ -54,12 +54,14 @@ def upload_file():
     return render_template('home.html')
 
 #Route to download refined srt file
-@app.route('/uploads/refined.srt', methods=['GET', 'POST'])
-def download(filename='refined.srt'):   
+@app.route('/download', methods=['GET', 'POST'])
+def download():   
     uploads = os.path.join(current_app.root_path, app.config['UPLOAD_FOLDER'])
-    if uploads:
-        flash('File downloaded', category='success')
-    return send_from_directory(directory=uploads, filename=filename)
+    path = './uploads/refined.srt'
+    #if uploads:
+    #    flash('File downloaded', category='success')
+    #return send_from_directory(directory=uploads, filename=filename)
+    return send_file(path, as_attachment=True)
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
