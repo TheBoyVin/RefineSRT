@@ -57,11 +57,10 @@
         </div>
     </form>
     </br>
-    <!--action="{{ url_for('.download', filename='refined.srt') }}" -->
-    <form align="center" class="grid"  enctype="multipart/form-data" action="{{ url_for('.download')}}"  method="GET">
-        <a><button type="submit" class="btn btn-success">Download</button></a>
+    <form align="center" class="grid"  enctype="multipart/form-data" method="GET">
+        <a href="{{url_for('download')}}">Download</button></a>
     </form>
-
+    <!--<a><button type="submit" align="center" class="btn btn-success">Download</button></a>-->
     <script
       src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
       integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
@@ -77,6 +76,7 @@
       integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
       crossorigin="anonymous"
     ></script>
+    <script src="./static/script.js"></script>
 
   </body>
 </html>

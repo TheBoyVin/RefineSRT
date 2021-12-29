@@ -55,13 +55,10 @@ def upload_file():
 
 #Route to download refined srt file
 @app.route('/download', methods=['GET', 'POST'])
-def download():   
+def download(): 
     uploads = os.path.join(current_app.root_path, app.config['UPLOAD_FOLDER'])
-    path = './uploads/refined.srt'
-    #if uploads:
-    #    flash('File downloaded', category='success')
-    #return send_from_directory(directory=uploads, filename=filename)
-    return send_file(path, as_attachment=True)
+    path = './uploads/refined.srt' 
+    return  send_file(path, as_attachment=True)
 
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
