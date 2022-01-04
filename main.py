@@ -1,20 +1,23 @@
-import os
 import pysrt
+import os
 from random import randint
 
+''' loop over subtitles and change duration if caption exceeds 5 seconds or is less than 1 second '''
 class Refine:
+    #initialize Refine class
     def __init__(self):
         subs = pysrt.open('./uploads/upload.srt')
         self.subs = subs
         short = 0
         long = 0
+        not_adjusted = 0
 
         self.short = short
         self.long = long
+        self.not_adjusted = not_adjusted
 
-    ''' loop over subtitles and change duration if caption exceeds 5 seconds or is less than 1 second '''
+    #fn to refine duration
     def refine_duration(self):
-        
         for sub in self.subs:
             index = sub.index
             margin = randint(0, 50)
@@ -33,7 +36,12 @@ class Refine:
                 try:
                     next_sub = self.subs[index]
                 except:
-                    pass
+                    ''' Reduce no of short subtitles, increase number of un adjusted '''
+                    self.short -= 1
+                    self.not_adjusted += 1
+                    print('No next subtitle, this is the last subtitle')
+                    print(f'Please manually adjust time codes for subtitle {sub.index}')
+                    #pass
                 else:
                     ''' convert tail difference between subtitles to a number'''
                     current_end = sub.end
@@ -81,7 +89,22 @@ class Refine:
                                     sub.start += {'milliseconds': -(remainder + margin)}
 
                                 else:
-                                    print(f'Please manually adjust time codes for subtitle {sub.index}')
+                                    nxt_duration = next_sub.duration
+                                    ntext1 = str(nxt_duration)
+                                    ntext2 = ntext1[7:]
+                                    ntext3 = ntext2.replace(',', '')
+                                    next_duration = int(ntext3)
+
+                                    if next_duration > (1000 + (remainder + margin)):
+                                        ''' shift start time of next subtitle '''
+                                        next_sub.start += {'milliseconds': (remainder + margin)}
+                                        sub.end += {'milliseconds': (remainder + margin)}
+
+                                    else:
+                                        ''' Reduce no of short subtitles, increase number of un adjusted '''
+                                        self.short -= 1
+                                        self.not_adjusted += 1
+                                        print(f'Please manually adjust time codes for subtitle {sub.index}')
 
                     else:
                         sub.end += {'milliseconds': remainder + margin}
@@ -103,10 +126,9 @@ class Refine:
                 self.long += 1
 
                 #new_duration = sub.duration
-
                 #print(duration)
                 #print(new_duration)
-        print(f'Refined {self.short} subtitles of less than 1 second and {self.long} subtitles of longer than 5 seconds')
+        print(f'Refined {self.short} subtitles of less than 1 second and {self.long} subtitles of longer than 5 seconds, while {self.not_adjusted} failed.')
 
     def run(self):
         self.refine_duration()

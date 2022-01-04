@@ -44,7 +44,7 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], 'upload.srt'))
             refine = Refine()
             refine.run()
-            flash(f'Refined {refine.short} subtitles of less than 1 second and {refine.long} subtitles of longer than 5 seconds', category='success')
+            flash(f'Refined {refine.short} subtitles of less than 1 second and {refine.long} subtitles of longer than 5 seconds, while {refine.not_adjusted} failed.', category='success')
             #return redirect(url_for('download_file'))
     
 
