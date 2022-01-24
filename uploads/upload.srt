@@ -1,2092 +1,3768 @@
 1
-00:00:01,380 --> 00:00:01,800
-- All right.
+00:00:21,390 --> 00:00:22,020
+Hi everyone.
 
 2
-00:00:03,930 --> 00:00:07,530
-So, hello again.
+00:00:22,350 --> 00:00:24,120
+My name is Chris styles and I have the great
 
 3
-00:00:09,060 --> 00:00:11,790
-Please just tell me in your name,
+00:00:24,120 --> 00:00:26,220
+privilege of being Dean of you and SWV.
 
 4
-00:00:12,630 --> 00:00:14,490
-just some basic things
+00:00:27,510 --> 00:00:31,050
+I'd like to welcome you all alumni staff, students, friends,
 
 5
-00:00:14,490 --> 00:00:17,430
-about choosing a man* years at TCNJ.
+00:00:31,050 --> 00:00:34,800
+and special guests to the second, meet the CEO for 2021.
 
 6
-00:00:18,630 --> 00:00:19,770
-How you came to teach,
+00:00:35,970 --> 00:00:37,830
+Before I begin, I'd like to acknowledge the
 
 7
-00:00:19,800 --> 00:00:23,100
-how do to counter like WGSS* department.
+00:00:37,830 --> 00:00:39,420
+biblical people that are the traditional
 
 8
-00:00:23,490 --> 00:00:25,980
-And when you came TCNJ,
+00:00:39,420 --> 00:00:41,790
+custodians of the land on which I am speaking from.
 
 9
-00:00:29,550 --> 00:00:33,240
-your departmental affiliation or did you teach? Okay?
+00:00:42,630 --> 00:00:44,400
+I also acknowledge the traditional owners of the
 
 10
-00:00:33,900 --> 00:00:36,600
-- So hi, my name is Cecilia Colbeck
+00:00:44,400 --> 00:00:46,980
+lands on which we made across the country and pay
 
 11
-00:00:36,630 --> 00:00:38,130
-and I have been employed
+00:00:47,010 --> 00:00:49,140
+our respects to their elders past and present.
 
 12
-00:00:38,130 --> 00:00:41,760
-at the College of New Jersey since 2007.
+00:00:49,500 --> 00:00:51,480
+And I extend that respect to all Aboriginal and
 
 13
-00:00:42,960 --> 00:00:47,130
-I came to the College of New Jersey as a program coordinator
+00:00:51,480 --> 00:00:53,820
+Torres Strait Islanders who are part of the units.
 
 14
-00:00:47,130 --> 00:00:50,400
-for the Women's Gender and Sexuality Studies department.
+00:00:53,820 --> 00:00:54,210
+WQ.
 
 15
-00:00:51,000 --> 00:00:53,550
-So I didn't come in as an affiliate teaching,
+00:00:55,800 --> 00:00:58,559
+We have once again, adopted a virtual format for me to
 
 16
-00:00:53,550 --> 00:00:57,120
-I came in more through the administration way.
+00:00:58,559 --> 00:01:01,709
+CEO, which allows us to include alumni and other members
 
 17
-00:00:59,880 --> 00:01:02,760
-So I'm not only affiliated with WGS,
+00:01:01,709 --> 00:01:04,679
+of the UNFW network across Australia and globally.
 
 18
-00:01:02,760 --> 00:01:05,070
-I've also worked for the English department
+00:01:05,250 --> 00:01:07,080
+But I can assure you that we will be returning
 
 19
-00:01:05,069 --> 00:01:08,849
-for about six years and now for about seven or so,
+00:01:07,080 --> 00:01:09,810
+to some live events in 2022 while keeping in
 
 20
-00:01:08,850 --> 00:01:11,310
-I'm also affiliated with the pre-law program
+00:01:09,810 --> 00:01:12,600
+mind the huge reach that digital formats allow.
 
 21
-00:01:11,310 --> 00:01:14,070
-and for the philosophy department.
+00:01:13,590 --> 00:01:15,720
+So a warm welcome to the large number of you
 
 22
-00:01:14,370 --> 00:01:15,990
-So for all of these departments,
+00:01:15,720 --> 00:01:17,729
+who are joining us wherever you are across.
 
 23
-00:01:16,890 --> 00:01:20,760
-I do come in bringing an administrative background.
+00:01:19,215 --> 00:01:21,345
+We're delighted to bring you another event that is
 
 24
-00:01:22,170 --> 00:01:28,020
-But with WGS, I also have a grad certificate and gender
+00:01:21,345 --> 00:01:23,805
+part of our commitment to provide you with ongoing
 
 25
-00:01:28,020 --> 00:01:28,620
-studies,
+00:01:23,835 --> 00:01:26,505
+career long learning, through exposure to people and
 
 26
-00:01:28,770 --> 00:01:33,300
-so now I also teach as an adjunct for the department as
+00:01:26,505 --> 00:01:29,235
+ideas you would not otherwise be exposed to, but for
 
 27
-00:01:33,300 --> 00:01:33,570
-well.
+00:01:29,235 --> 00:01:32,205
+being part of this network today, I'm sure we're in
 
 28
-00:01:33,570 --> 00:01:38,490
-- Yes, that's so amazing.
+00:01:32,205 --> 00:01:34,935
+for another terrific meet the CEO as it's our great
 
 29
-00:01:39,810 --> 00:01:42,210
-And I already know you personally
+00:01:34,935 --> 00:01:39,255
+privilege to meet Kelly Bayer, Ross, Maren, CEO, Optus.
 
 30
-00:01:42,210 --> 00:01:46,530
-for all the amazing things that you're so JSs* students
+00:01:39,525 --> 00:01:42,045
+We were very excited when Kelly said yes to
 
 31
-00:01:46,530 --> 00:01:46,950
-with.
+00:01:42,045 --> 00:01:44,895
+being our guest today, Kelly will be interviewed
 
 32
-00:01:47,430 --> 00:01:51,120
-So with that, do you have like a favorite class,
+00:01:44,895 --> 00:01:47,525
+by marina go non-executive director energy.
 
 33
-00:01:51,960 --> 00:01:53,850
-what are they and why?
+00:01:48,370 --> 00:01:50,460
+A member of the business schools, business advisory
 
 34
-00:01:54,120 --> 00:01:57,240
-- Okay, so I'm gonna expand before I get into my favorite
+00:01:50,460 --> 00:01:53,730
+council, and a, and SW business school alumni, having
 
 35
-00:01:57,240 --> 00:01:57,840
-classes,
+00:01:53,730 --> 00:01:57,210
+completed an MBA executive at the age of DSM in 2002.
 
 36
-00:01:57,870 --> 00:02:00,330
-I'm thinking I'm going to talk about a little bit more of,
+00:01:58,530 --> 00:01:59,940
+Thanks so much to those of you
 
 37
-00:02:00,360 --> 00:02:03,360
-you know, some of my favorite administrative duties
+00:01:59,940 --> 00:02:01,320
+who sent in questions for Kelly.
 
 38
-00:02:03,360 --> 00:02:04,380
-within the department.
+00:02:01,650 --> 00:02:04,590
+Several themes emerged around leadership, innovation
 
 39
-00:02:04,680 --> 00:02:08,220
-Yeah, my ability to be able to interact
+00:02:04,650 --> 00:02:07,020
+and responsible management, and we've incorporated
 
 40
-00:02:08,220 --> 00:02:10,140
-and form relationships with students.
+00:02:07,020 --> 00:02:09,000
+many of your questions into the conversation.
 
 41
-00:02:10,440 --> 00:02:13,290
-Because I get to know them when they come in,
+00:02:10,350 --> 00:02:12,630
+You can also share your thoughts and comments about today's
 
 42
-00:02:13,320 --> 00:02:15,810
-either as freshmen or transfer students,
+00:02:12,630 --> 00:02:16,020
+event on Facebook and LinkedIn using the hashtag meet the.
 
 43
-00:02:16,170 --> 00:02:18,900
-I'm probably the first email that they get from the
+00:02:17,550 --> 00:02:19,290
+It's now my great pleasure to welcome an
 
 44
-00:02:18,900 --> 00:02:19,530
-department.
+00:02:19,320 --> 00:02:21,810
+ongoing supporter of the meet the CEO series,
 
 45
-00:02:19,800 --> 00:02:22,770
-Or the first, you know, face to face meeting.
+00:02:22,050 --> 00:02:25,410
+David Gonski, AC chancellor of USW Sydney.
 
 46
-00:02:23,010 --> 00:02:24,870
-Because I see your transcripts,
+00:02:25,620 --> 00:02:27,720
+He'll introduce both marina and Kelly.
 
 47
-00:02:24,870 --> 00:02:30,630
-I see your admissions paperwork and everything.
+00:02:28,560 --> 00:02:30,180
+Thank you and enjoy the conversation.
 
 48
-00:02:30,870 --> 00:02:33,630
-And so I reach out to you so that when you come
+00:02:33,180 --> 00:02:35,220
+Welcome ladies and gentlemen, and
 
 49
-00:02:33,630 --> 00:02:35,250
-for accepted students day,
+00:02:35,220 --> 00:02:37,710
+thank you for joining us for this.
 
 50
-00:02:35,250 --> 00:02:38,160
-or you come for freshmen or transfer orientation day,
+00:02:37,710 --> 00:02:39,030
+Meet the CEO.
 
 51
-00:02:38,520 --> 00:02:39,990
-you know, I am there.
+00:02:39,840 --> 00:02:42,570
+I'm told that the meet the CEO has been
 
 52
-00:02:40,020 --> 00:02:42,180
-And I already have a plan for you
+00:02:42,570 --> 00:02:45,470
+going for 19 years, and this is the 40.
 
 53
-00:02:42,210 --> 00:02:44,190
-of what your major will look like
+00:02:46,260 --> 00:02:47,220
+Version of it.
 
 54
-00:02:44,220 --> 00:02:48,120
-and what your four years here at TCNJ might look like.
+00:02:47,790 --> 00:02:52,350
+It's sad that we can't meet in an actual physical sense, but
 
 55
-00:02:48,540 --> 00:02:52,230
-And also able to tell you what beyond the academics
+00:02:52,350 --> 00:02:55,830
+I think this virtual production will beat just marvelous.
 
 56
-00:02:52,230 --> 00:02:55,140
-you should be taking part in, like student organizations.
+00:02:56,220 --> 00:02:58,560
+I welcome you all, but I must tell you,
 
 57
-00:02:55,320 --> 00:02:57,750
-We have Will*, do you want to be a part of Will*.
+00:02:58,560 --> 00:03:01,230
+I've been thinking a lot about meet the CEO.
 
 58
-00:02:57,990 --> 00:03:01,920
-So, you know, I think the favorite part of my job
+00:03:01,260 --> 00:03:02,970
+Why is it so successful?
 
 59
-00:03:01,920 --> 00:03:05,190
-while I do enjoy teaching is I also get to spend
+00:03:03,540 --> 00:03:06,420
+And I think the reason really is that
 
 60
-00:03:05,190 --> 00:03:07,530
-a lot more time with the students, I think.
+00:03:06,420 --> 00:03:08,850
+it actually does two things for us.
 
 61
-00:03:07,560 --> 00:03:10,620
-You know, outside of the classroom as well,
+00:03:09,240 --> 00:03:10,020
+First.
 
 62
-00:03:11,040 --> 00:03:14,250
-because I am also an advisor to like 16 organizations.
+00:03:10,050 --> 00:03:11,310
+It is informative.
 
 63
-00:03:14,250 --> 00:03:21,420
-So Triaud*, women's center, PRISM, Ignite*.
+00:03:11,850 --> 00:03:14,170
+And second, in my opinion, incredibly.
 
 64
-00:03:21,870 --> 00:03:24,540
-And I get to know you in and out of the classroom.
+00:03:15,480 --> 00:03:18,390
+It's informative in the sense that we get the top,
 
 65
-00:03:24,570 --> 00:03:26,910
-And that is the best part of my job,
+00:03:18,390 --> 00:03:22,380
+people telling us the do's and don'ts of business, the
 
 66
-00:03:26,910 --> 00:03:29,190
-being able to interact with the students.
+00:03:22,380 --> 00:03:24,959
+things they've done wrong and the things they've done.
 
 67
-00:03:30,510 --> 00:03:33,300
-As for favorite classes, since I started teaching,
+00:03:24,959 --> 00:03:25,470
+Right.
 
 68
-00:03:33,870 --> 00:03:37,710
-there are two that I particularly enjoy, and I enjoy.
+00:03:25,890 --> 00:03:26,730
+Interesting.
 
 69
-00:03:38,160 --> 00:03:41,490
-It's a topics course and it's called gender, race,
+00:03:26,910 --> 00:03:29,760
+Because our good interviewers get behind the
 
 70
-00:03:41,490 --> 00:03:44,520
-and sexuality and sports because I enjoy sports.
+00:03:29,760 --> 00:03:32,880
+scenes and find out what drove these people.
 
 71
-00:03:44,880 --> 00:03:47,970
-And in that course, I get a lot of non-majors.
+00:03:33,090 --> 00:03:36,149
+What made them the success as they are today?
 
 72
-00:03:48,090 --> 00:03:51,720
-So I'm able to expose them to a lot
+00:03:36,959 --> 00:03:39,359
+I can honestly say, I believe today.
 
 73
-00:03:51,750 --> 00:03:54,780
-of the Women's and Gender and Sexuality Studies.
+00:03:39,390 --> 00:03:40,739
+We're in for a great.
 
 74
-00:03:56,130 --> 00:04:00,900
-You know, foundational, information of the discipline,
+00:03:41,895 --> 00:03:44,895
+I know our guests, Kelly bear Rosmarin.
 
 75
-00:04:00,930 --> 00:04:03,270
-because they've probably never had it before.
+00:03:45,135 --> 00:03:46,695
+I have worked with her for many
 
 76
-00:04:03,390 --> 00:04:05,760
-So it opens their eyes, you know,
+00:03:46,695 --> 00:03:49,365
+years and she's an absolute star.
 
 77
-00:04:06,270 --> 00:04:10,320
-to how all aspects of our society
+00:03:49,905 --> 00:03:53,085
+I think you'll find it incredibly interesting as
 
 78
-00:04:11,310 --> 00:04:15,330
-intersects with what we are teaching here in WGS.
+00:03:53,085 --> 00:03:57,465
+someone who was appointed to be CEO of Optus on
 
 79
-00:04:15,840 --> 00:04:17,700
-And then my other favorite course
+00:03:57,465 --> 00:04:02,775
+the 1st of April, 2020, she saw the COVID pandemic
 
 80
-00:04:17,730 --> 00:04:20,580
-is a women's history course because I'm also a historian
+00:04:02,925 --> 00:04:05,775
+from start right through to where we are today.
 
 81
-00:04:20,610 --> 00:04:23,190
-and it is documented US Women's History
+00:04:06,510 --> 00:04:10,050
+And I'm sure she'll give us some views on how she managed.
 
 82
-00:04:23,190 --> 00:04:25,290
-when I look at the US Women's Suffrage Movement.
+00:04:10,320 --> 00:04:12,270
+She's been involved with innovation.
 
 83
-00:04:26,370 --> 00:04:30,120
-How women in this country, you know, got the right to vote.
+00:04:12,540 --> 00:04:15,900
+She's been involved in leadership with big companies.
 
 84
-00:04:30,420 --> 00:04:32,370
-And again, this course is eye opening
+00:04:16,079 --> 00:04:16,769
+Indeed.
 
 85
-00:04:32,370 --> 00:04:35,100
-to a lot of people because they don't realize that,
+00:04:16,890 --> 00:04:18,960
+I'm looking forward to all her
 
 86
-00:04:35,550 --> 00:04:38,550
-you know, when the colonies first came into existence,
+00:04:18,960 --> 00:04:21,990
+pointers on how she does her job.
 
 87
-00:04:38,850 --> 00:04:40,710
-women did have the right to vote
+00:04:22,200 --> 00:04:27,960
+And indeed got to be where she is prior to joining Optus.
 
 88
-00:04:40,710 --> 00:04:43,920
-and that vote was taken away from them by men.
+00:04:28,110 --> 00:04:30,810
+Kelly spent 14 years with the
 
 89
-00:04:44,340 --> 00:04:46,770
-And then it was embedded, okay?
+00:04:30,810 --> 00:04:32,670
+Commonwealth bank of Australia.
 
 90
-00:04:47,250 --> 00:04:50,280
-In the Constitution that women wouldn't have
+00:04:32,670 --> 00:04:33,330
+The CBS.
 
 91
-00:04:50,280 --> 00:04:52,290
-the right to vote, just males.
+00:04:34,784 --> 00:04:38,354
+There she held several senior positions, her
 
 92
-00:04:52,530 --> 00:04:55,770
-Yeah, and so we have to go back and look,
+00:04:38,354 --> 00:04:42,075
+last appointment at CBA being group executive
 
 93
-00:04:55,920 --> 00:05:00,180
-why was that right to vote taken away from us?
+00:04:42,075 --> 00:04:45,075
+for institutional banking and markets.
 
 94
-00:05:00,510 --> 00:05:03,000
-And another reason I love this course is because,
+00:04:45,465 --> 00:04:48,735
+She's also spent time in management consulting
 
 95
-00:05:03,030 --> 00:05:07,110
-you know, we dwell into how Native American societies
+00:04:49,034 --> 00:04:52,275
+and in various software enterprises, all
 
 96
-00:05:07,440 --> 00:05:10,260
-influence the Constitution and influence
+00:04:52,275 --> 00:04:56,115
+I might say with great success, she also
 
 97
-00:05:10,290 --> 00:05:12,480
-those members of the Suffrage Movement
+00:04:56,115 --> 00:04:59,235
+holds two non-executive director positions.
 
 98
-00:05:12,480 --> 00:05:13,860
-that we are more familiar with.
+00:05:00,405 --> 00:05:03,765
+One with the open pay group of fast
 
 99
-00:05:13,860 --> 00:05:15,570
-So say Elizabeth Cady Stanton*,
+00:05:03,765 --> 00:05:06,795
+growing and highly differentiated player
 
 100
-00:05:16,650 --> 00:05:18,450
-you know, or Susan B Anthony.
+00:05:07,065 --> 00:05:10,635
+in the global by now pay later industry.
 
 101
-00:05:18,480 --> 00:05:21,570
-And how they were influenced by Native American women
+00:05:11,055 --> 00:05:12,165
+She's also an air.
 
 102
-00:05:21,570 --> 00:05:23,820
-and their roles in their societies.
+00:05:12,165 --> 00:05:15,225
+Tell Africa, a leading provider of
 
 103
-00:05:24,060 --> 00:05:27,150
-And so a lot of this is just new information
+00:05:15,225 --> 00:05:18,825
+telecommunications and mobile money services
 
 104
-00:05:27,150 --> 00:05:28,770
-and eye opening to students,
+00:05:19,005 --> 00:05:23,295
+with presence in 14 countries across Africa.
 
 105
-00:05:28,770 --> 00:05:31,710
-and I love being able to share that with them.
+00:05:24,555 --> 00:05:27,675
+Kelly is recognized for leveraging technical.
 
 106
-00:05:36,690 --> 00:05:40,170
-Or just have a knowledge on this process.
+00:05:28,425 --> 00:05:31,725
+For working with data and analytics and
 
 107
-00:05:41,370 --> 00:05:42,030
-Yes.
+00:05:31,725 --> 00:05:34,485
+developing leading customer services.
 
 108
-00:05:44,640 --> 00:05:47,040
-That right to vote and how it's taken away
+00:05:34,965 --> 00:05:39,195
+She's been named the top three tech CEOs in Australia.
 
 109
-00:05:47,100 --> 00:05:49,590
-and when was that, no, I don't want that.
+00:05:40,125 --> 00:05:43,785
+She's been in the top 25 women in Asia, Pacific
 
 110
-00:05:49,590 --> 00:05:53,460
-But I love the way like how you basically just turned it
+00:05:43,785 --> 00:05:48,825
+finance in the top 10 business women in Australia and
 
 111
-00:05:53,460 --> 00:05:57,480
-into like, an expressive way ways to teach non-level
+00:05:48,825 --> 00:05:52,875
+in the 50 most powerful women in Australian business.
 
 112
-00:05:57,510 --> 00:05:58,350
-justic*e,
+00:05:53,295 --> 00:05:55,395
+She also holds a number of positions.
 
 113
-00:05:58,590 --> 00:06:00,660
-majors and minors.
+00:05:56,085 --> 00:05:58,485
+In not-for-profits and is a big
 
 114
-00:06:00,840 --> 00:06:03,720
-And I think that's what's amazing.
+00:05:58,515 --> 00:06:00,885
+contributor to her community.
 
 115
-00:06:04,440 --> 00:06:06,090
-With that, I know you've been,
+00:06:01,545 --> 00:06:03,885
+She holds a bachelor's degree in industrial
 
 116
-00:06:06,360 --> 00:06:07,800
-you said that you've been like a part
+00:06:03,885 --> 00:06:06,975
+engineering and engineering management, and a
 
 117
-00:06:07,800 --> 00:06:12,330
-of these different departments over the last few years.
+00:06:06,975 --> 00:06:10,005
+master of science in management, science, and
 
 118
-00:06:12,330 --> 00:06:15,930
-So please tell me like, from your perspective,
+00:06:10,005 --> 00:06:13,545
+industrial engineering from Stanford university.
 
 119
-00:06:15,930 --> 00:06:17,940
-how has the Department changed?
+00:06:14,235 --> 00:06:18,284
+Kelly has a long-term association with our university.
 
 120
-00:06:18,630 --> 00:06:22,560
-How has your job changed over the last few years?
+00:06:18,990 --> 00:06:22,890
+Having served as a special advisor to the UN USW
 
 121
-00:06:23,580 --> 00:06:25,680
-- So how has the department changed?
+00:06:22,920 --> 00:06:27,180
+engineering faculty advisory board for eight years from
 
 122
-00:06:25,980 --> 00:06:27,480
-I think that, you know,
+00:06:27,180 --> 00:06:32,940
+2012, Kelly today will be interviewed by our own marina go.
 
 123
-00:06:27,510 --> 00:06:31,200
-we have become more intertwined
+00:06:33,390 --> 00:06:35,220
+I call her our own because she's
 
 124
-00:06:31,200 --> 00:06:33,120
-with other departments on campus.
+00:06:35,220 --> 00:06:38,880
+an year SIM MBA, executive alumni.
 
 125
-00:06:33,330 --> 00:06:36,270
-So such as the African American Studies departments,
+00:06:39,210 --> 00:06:41,520
+She's also a member of the business
 
 126
-00:06:36,270 --> 00:06:40,230
-sociology, anthropology, you know, criminology,
+00:06:41,520 --> 00:06:44,700
+school's advisory council and has leadership
 
 127
-00:06:40,470 --> 00:06:43,200
-because all of our and history, don't let me forget history,
+00:06:44,700 --> 00:06:47,610
+experience in a diverse range of India.
 
 128
-00:06:43,320 --> 00:06:46,920
-because all of our courses are intersectional, all right?
+00:06:48,705 --> 00:06:53,145
+Marina is an established and well experienced interviewer.
 
 129
-00:06:46,950 --> 00:06:52,440
-And the disciplines, everything that we teach in WGS,
+00:06:53,325 --> 00:06:55,755
+And I know she's going to get to the truth
 
 130
-00:06:52,890 --> 00:06:56,550
-you know, is somehow also taught in these other courses.
+00:06:55,965 --> 00:06:58,695
+and give us that interest in information I
 
 131
-00:06:56,820 --> 00:07:01,200
-So we're able to offer students the ability to double major,
+00:06:58,695 --> 00:07:02,745
+promised earlier, marina in her own right, is a
 
 132
-00:07:02,040 --> 00:07:04,620
-which is something they may not have thought about before.
+00:07:02,745 --> 00:07:07,155
+non-executive director on multiple organizations.
 
 133
-00:07:04,740 --> 00:07:06,510
-So when we are able to show them
+00:07:07,425 --> 00:07:10,695
+She's chair of ovarian cancer Australia, and is
 
 134
-00:07:06,510 --> 00:07:09,540
-that because all of our courses are so intersectional
+00:07:10,695 --> 00:07:13,725
+a non-executive director for energy Australia.
 
 135
-00:07:09,540 --> 00:07:12,000
-with other disciplines that you can actually take,
+00:07:14,490 --> 00:07:17,910
+Autosports group pro pack, packaging,
 
 136
-00:07:12,270 --> 00:07:14,670
-you know, three courses from history
+00:07:18,150 --> 00:07:22,080
+adore, beauty Booktopia and seven 11.
 
 137
-00:07:14,670 --> 00:07:18,300
-and cross list them with WGS and have a double major,
+00:07:22,680 --> 00:07:25,830
+Marina's also found time to write a book.
 
 138
-00:07:18,660 --> 00:07:21,960
-I love how that really makes the students eyes,
+00:07:25,980 --> 00:07:28,620
+She's the author of the business book for women
 
 139
-00:07:22,020 --> 00:07:23,220
-you know, sparkle and say,
+00:07:28,920 --> 00:07:33,840
+breakthrough 20 success strategies for female leaders.
 
 140
-00:07:23,250 --> 00:07:24,240
-"Oh, I can do that.
+00:07:34,470 --> 00:07:38,340
+It is an enormous pleasure to ask marina and
 
 141
-00:07:24,300 --> 00:07:26,220
-"I didn't know that I have the time to do that."
+00:07:38,340 --> 00:07:42,840
+Kelly to tell us what's going on in the life of.
 
 142
-00:07:26,610 --> 00:07:30,240
-So just showing them how that is possible,
+00:08:01,380 --> 00:08:02,159
+Welcome Kelly.
 
 143
-00:07:30,330 --> 00:07:33,330
-and why it's possible is very, very important
+00:08:02,400 --> 00:08:04,469
+Thank you so much and welcome to Optus.
 
 144
-00:07:33,330 --> 00:07:36,330
-because of our courses being so interdisciplinary,
+00:08:04,500 --> 00:08:05,190
+Thank you.
 
 145
-00:07:36,690 --> 00:07:40,380
-and how they intersect and giving them that opportunity.
+00:08:05,550 --> 00:08:06,630
+Um, first I'll start with a
 
 146
-00:07:40,680 --> 00:07:44,400
-So, you know, yet double majors who come on in,
+00:08:06,750 --> 00:08:08,609
+brief background on meet the CEO.
 
 147
-00:07:44,400 --> 00:07:46,380
-like with communication studies,
+00:08:08,909 --> 00:08:09,930
+This is the 48th.
 
 148
-00:07:46,380 --> 00:07:48,630
-not realizing they can do something like this,
+00:08:09,940 --> 00:08:11,729
+Meet the CEO conversation hosted
 
 149
-00:07:48,630 --> 00:07:50,610
-or journalism, professional writing.
+00:08:11,729 --> 00:08:13,140
+by you and SW business school.
 
 150
-00:07:50,970 --> 00:07:53,940
-And it really opens up new areas
+00:08:13,590 --> 00:08:15,240
+The very first meeting the CEO guest
 
 151
-00:07:53,940 --> 00:07:56,130
-for these students for when they graduate
+00:08:15,240 --> 00:08:17,549
+was to Richard Branson in 2003.
 
 152
-00:07:56,130 --> 00:07:57,810
-to branch out career-wise,
+00:08:18,210 --> 00:08:22,110
+Kelly Bayer Rosmarin is the first CEO from Optus to join us.
 
 153
-00:07:57,990 --> 00:08:00,120
-because they're bringing something additional.
+00:08:22,110 --> 00:08:24,960
+Although Kong, who was the CEO of Singtel up
 
 154
-00:08:04,410 --> 00:08:09,060
-- I'm speaking on this double major,
+00:08:24,960 --> 00:08:27,690
+until last year, joined us in March, 2009.
 
 155
-00:08:09,060 --> 00:08:12,660
-and I know you mentioned a lot of how students
+00:08:28,695 --> 00:08:31,777
+Kelly stepped into the CEO role at Optus on 1st
 
 156
-00:08:12,690 --> 00:08:16,050
-have definitely then attract laughter within your job,
+00:08:31,777 --> 00:08:34,965
+of April, 2020, almost exactly at the time when
 
 157
-00:08:16,050 --> 00:08:19,830
-and you're at TCNJ, and the WGS department.
+00:08:34,965 --> 00:08:36,705
+new south Wales went into its first lockdown.
 
 158
-00:08:19,830 --> 00:08:22,050
-So how would you say the students
+00:08:36,705 --> 00:08:40,005
+So Kelly certainly knows how to zoom through a crowd, but
 
 159
-00:08:22,050 --> 00:08:23,910
-had changed over the years?
+00:08:40,005 --> 00:08:43,155
+with restrictions lifted, I'm able to be here with Kelly.
 
 160
-00:08:25,260 --> 00:08:29,370
-- Students are, you know, I think when the department
+00:08:43,455 --> 00:08:44,745
+So we've decided we can do this
 
 161
-00:08:29,370 --> 00:08:29,850
-started,
+00:08:44,745 --> 00:08:46,215
+to meet the CEO a bit differently.
 
 162
-00:08:29,850 --> 00:08:31,620
-and I wasn't here, when the department started,
+00:08:46,635 --> 00:08:49,305
+I joined Kelly adopters headquarters at Macquarie
 
 163
-00:08:31,650 --> 00:08:33,780
-or the number of majors was low.
+00:08:49,305 --> 00:08:51,375
+park today, making this the first meet the
 
 164
-00:08:33,780 --> 00:08:36,930
-It was, you know, not a new discipline, but new to TCNJ.
+00:08:51,375 --> 00:08:53,895
+CEO conversation at the workplace of our seat.
 
 165
-00:08:37,350 --> 00:08:39,810
-And our students and their parents, always,
+00:08:55,050 --> 00:08:57,120
+I had the opportunity to catch up with Kelly prior
 
 166
-00:08:39,840 --> 00:08:41,970
-you know, we're coming in and asking the questions,
+00:08:57,120 --> 00:09:00,030
+to today's conversation and learn that Kelly was born
 
 167
-00:08:41,970 --> 00:08:43,440
-what am I goa with this degree?
+00:09:00,030 --> 00:09:03,090
+in South Africa and lived and work in Silicon valley
 
 168
-00:08:43,440 --> 00:08:44,790
-What am I gonna do with this degree,
+00:09:03,090 --> 00:09:05,430
+before marrying an Australian and deciding there
 
 169
-00:08:44,790 --> 00:08:48,420
-not realizing I could do anything with this degree.
+00:09:05,440 --> 00:09:08,400
+Sydney could be home as well as being a capable and
 
 170
-00:08:49,140 --> 00:08:51,660
-But I'm finding the students that are,
+00:09:08,400 --> 00:09:10,830
+highly respected business leader with a brilliant
 
 171
-00:08:51,660 --> 00:08:54,090
-you know, accepted into TCNJ
+00:09:10,830 --> 00:09:12,840
+reputation for being an innovative disruptor.
 
 172
-00:08:54,090 --> 00:08:57,270
-and coming into WGS as a major as freshmen.
+00:09:12,870 --> 00:09:15,270
+I love that Kelly is a mother and commit
 
 173
-00:08:57,690 --> 00:09:00,990
-You know, coming in with more knowledge
+00:09:15,270 --> 00:09:16,920
+to a significant chunk of her time to
 
 174
-00:09:00,990 --> 00:09:04,560
-about how important this discipline is than past majors.
+00:09:16,920 --> 00:09:19,080
+contributing to the community via charitable.
 
 175
-00:09:04,830 --> 00:09:07,050
-So, you know, we may not have to,
+00:09:20,235 --> 00:09:23,444
+She serves on the board of JCA new south Wales act.
 
 176
-00:09:07,530 --> 00:09:10,620
-you know, so much sell* them on the major,
+00:09:23,775 --> 00:09:27,165
+And is co-founder of all in giving circle, Kelly was
 
 177
-00:09:10,800 --> 00:09:13,380
-because they're already to be majors.
+00:09:27,165 --> 00:09:29,954
+also previously special advisor engineering faculty
 
 178
-00:09:13,470 --> 00:09:16,440
-So whether it be in high school or through their activism
+00:09:29,954 --> 00:09:32,954
+advisory board at UNFW Kelly's experience has had
 
 179
-00:09:16,440 --> 00:09:18,960
-that they're taking part in their local
+00:09:32,954 --> 00:09:34,875
+her work in a few different organizations from a
 
 180
-00:09:18,960 --> 00:09:21,780
-or you know, State community,
+00:09:34,875 --> 00:09:37,844
+Silicon valley startup to one of our four major banks.
 
 181
-00:09:22,110 --> 00:09:24,390
-they know, they wanna to be a part of this department
+00:09:38,564 --> 00:09:39,645
+So I'd like to start there.
 
 182
-00:09:24,390 --> 00:09:26,100
-because they have found something
+00:09:39,915 --> 00:09:41,714
+What did you learn in those previous roles
 
 183
-00:09:26,100 --> 00:09:27,480
-that they're passionate about.
+00:09:41,714 --> 00:09:42,974
+that has prepared you for your current.
 
 184
-00:09:27,780 --> 00:09:29,730
-And then coming to WGS.
+00:09:44,280 --> 00:09:45,600
+That's a huge question.
 
 185
-00:09:29,760 --> 00:09:31,860
-Yeah, just simply builds upon that
+00:09:45,600 --> 00:09:47,940
+Cause I feel like you learn something every
 
 186
-00:09:31,860 --> 00:09:33,930
-and gives them more of the academic,
+00:09:47,940 --> 00:09:50,400
+day and from every person you interact with
 
 187
-00:09:35,640 --> 00:09:37,770
-you know, requirements that they need.
+00:09:50,490 --> 00:09:52,410
+and most of the best learnings just become
 
 188
-00:09:38,700 --> 00:09:42,210
-But they're also able to put it into practice.
+00:09:52,410 --> 00:09:55,170
+part of who you are and what you adopt.
 
 189
-00:09:42,240 --> 00:09:44,190
-Yeah, no, I take that and,
+00:09:55,830 --> 00:09:57,960
+But I think I might share maybe a few formative
 
 190
-00:09:44,610 --> 00:09:49,020
-you know, put that knowledge into action.
+00:09:57,960 --> 00:10:00,840
+experiences that might be relevant to the audience.
 
 191
-00:09:49,500 --> 00:09:52,410
-So the students I think are coming in more aware
+00:10:01,020 --> 00:10:01,500
+Please do.
 
 192
-00:09:52,410 --> 00:09:55,560
-and being able to explain to their parents
+00:10:01,680 --> 00:10:04,680
+Um, one of the things I learned was to always question
 
 193
-00:09:55,560 --> 00:09:58,590
-why this discipline is so important.
+00:10:04,680 --> 00:10:08,190
+the status quo and not to be afraid to speak up
 
 194
-00:09:58,950 --> 00:10:01,500
-They're coming in with that foundational knowledge now.
+00:10:08,250 --> 00:10:10,560
+when you do discover something that needs to be.
 
 195
-00:10:02,220 --> 00:10:04,350
-And, you know, in my opinion,
+00:10:11,645 --> 00:10:14,465
+And I think that was probably shaped by one of my
 
 196
-00:10:04,350 --> 00:10:06,810
-we haven't had to be able to sell to the parents
+00:10:14,465 --> 00:10:17,825
+first roles, uh, where I walked into a room and
 
 197
-00:10:06,810 --> 00:10:08,640
-as much as we had to before.
+00:10:17,825 --> 00:10:20,165
+everybody was discussing something and they were
 
 198
-00:10:08,940 --> 00:10:10,980
-So I'm hoping that means that parents
+00:10:20,165 --> 00:10:23,045
+all heading down a certain direction that I thought
 
 199
-00:10:10,980 --> 00:10:14,430
-are trusting their children's judgment in regards to,
+00:10:23,045 --> 00:10:25,625
+really wasn't going to resonate with customers.
 
 200
-00:10:14,460 --> 00:10:15,750
-you know, what they want to study
+00:10:26,165 --> 00:10:28,175
+And so partway through the meeting, I turned to
 
 201
-00:10:15,750 --> 00:10:17,730
-and what they believe they will be good at.
+00:10:28,175 --> 00:10:30,575
+some person who was dominating the conversation
 
 202
-00:10:18,600 --> 00:10:21,300
-You know, once they have to be out there
+00:10:30,575 --> 00:10:32,525
+and said, look, I don't think I agree with that.
 
 203
-00:10:21,300 --> 00:10:23,610
-looking for a career and what they want to do
+00:10:32,765 --> 00:10:34,775
+Here's all the reasons why I don't think that.
 
 204
-00:10:23,610 --> 00:10:27,810
-as a citizen of this nation, and of this world, yes.
+00:10:35,345 --> 00:10:36,005
+Resonate.
 
 205
-00:10:27,810 --> 00:10:33,120
-- Yeah, definitely, I think there has been a shift.
+00:10:36,695 --> 00:10:39,725
+Um, and after the meeting ended, everyone was like, wow,
 
 206
-00:10:33,180 --> 00:10:36,300
-Now if my parents definitely allow their child
+00:10:39,725 --> 00:10:42,485
+I can't believe you would speak to the CEO that way.
 
 207
-00:10:36,300 --> 00:10:38,100
-to do what they want with in college,
+00:10:43,085 --> 00:10:45,815
+Of course, I didn't know that he was the CEO at the
 
 208
-00:10:38,100 --> 00:10:41,880
-and especially when it comes to like the WGS major and
+00:10:45,815 --> 00:10:49,985
+time, which meant I felt fine voicing my opinion and
 
 209
-00:10:41,880 --> 00:10:42,360
-minor,
+00:10:49,985 --> 00:10:52,025
+probably to everyone else who didn't know, they didn't
 
 210
-00:10:42,570 --> 00:10:44,310
-like, what is that and now like,
+00:10:52,025 --> 00:10:55,625
+want to stand up to that person or voice account of view.
 
 211
-00:10:44,730 --> 00:10:47,100
-I think that people have definitely just given
+00:10:56,105 --> 00:10:57,905
+But the fact that I'd been able to do that
 
 212
-00:10:47,100 --> 00:10:49,530
-a level of like, you can do anything*.
+00:10:57,905 --> 00:11:00,845
+successfully, I think helped shape a real lack of.
 
 213
-00:10:50,790 --> 00:10:53,310
-- Definitely, and I think because WGS
+00:11:01,800 --> 00:11:04,800
+Well, you could say a disrespect for authority that
 
 214
-00:10:53,310 --> 00:10:57,060
-has always been a discipline that is focused on social
+00:11:04,800 --> 00:11:08,250
+has been quite characteristic throughout my career, and
 
 215
-00:10:57,060 --> 00:10:57,780
-justice.
+00:11:08,250 --> 00:11:11,760
+also makes me in this position, want to hear from other
 
 216
-00:10:58,110 --> 00:11:00,150
-And now, social justice,
+00:11:11,760 --> 00:11:15,450
+people and be open to voices no matter how junior, cause
 
 217
-00:11:00,630 --> 00:11:04,020
-you know, within the last few years has become more
+00:11:15,450 --> 00:11:17,700
+you never know where the best insights can come from.
 
 218
-00:11:04,050 --> 00:11:04,650
-prominent.
+00:11:18,030 --> 00:11:18,300
+Yeah.
 
 219
-00:11:04,650 --> 00:11:08,640
-It's more out there and I think that has to do with social
+00:11:19,380 --> 00:11:21,690
+And so why did you move to a telco?
 
 220
-00:11:08,640 --> 00:11:09,180
-media.
+00:11:21,810 --> 00:11:23,250
+I mean, you you've had this great
 
 221
-00:11:09,510 --> 00:11:11,700
-It's always been around, but it hasn't been
+00:11:23,250 --> 00:11:24,690
+experience, varied experience.
 
 222
-00:11:11,700 --> 00:11:14,850
-that well publicized or talked about,
+00:11:24,960 --> 00:11:25,530
+What was the uterine.
 
 223
-00:11:14,850 --> 00:11:17,850
-you know, not so much in your face, so now it is.
+00:11:26,595 --> 00:11:28,695
+Well, I loved my time in banking.
 
 224
-00:11:18,120 --> 00:11:21,600
-Social media has really given the opportunity
+00:11:28,695 --> 00:11:31,335
+I loved my time in tech in Silicon valley,
 
 225
-00:11:21,630 --> 00:11:26,130
-for people to speak about the injustices that they see.
+00:11:31,725 --> 00:11:34,095
+uh, but I'm always looking for a challenge and
 
 226
-00:11:26,550 --> 00:11:29,220
-And it's, you know, information now,
+00:11:34,125 --> 00:11:36,705
+the telco industry is incredibly challenging.
 
 227
-00:11:29,220 --> 00:11:31,980
-in this time and the technology that we're able to use,
+00:11:37,305 --> 00:11:39,615
+Um, it's one of those industries that
 
 228
-00:11:32,010 --> 00:11:34,320
-it's out there instantly, all right?
+00:11:39,615 --> 00:11:42,945
+people rely on so much use frequently.
 
 229
-00:11:34,350 --> 00:11:36,030
-And so people are out there,
+00:11:43,830 --> 00:11:46,530
+Um, it's really important to people.
 
 230
-00:11:36,030 --> 00:11:38,070
-they're taking part in these social movements,
+00:11:47,040 --> 00:11:50,910
+Um, and yet the industry itself has been, uh,
 
 231
-00:11:38,070 --> 00:11:40,020
-they're taking part in these protests.
+00:11:50,940 --> 00:11:54,450
+reducing in value over time with declining rakes
 
 232
-00:11:40,770 --> 00:11:43,290
-But a lot of the things that these movements
+00:11:54,480 --> 00:11:58,050
+in the industry and becoming almost relegated to a
 
 233
-00:11:43,290 --> 00:11:46,440
-are based upon I think WGS has been talking about for a long
+00:11:58,050 --> 00:12:00,450
+background service that people don't think about.
 
 234
-00:11:46,440 --> 00:11:46,890
-time.
+00:12:01,020 --> 00:12:04,410
+So that looked like an unsatisfactory state of affairs.
 
 235
-00:11:50,190 --> 00:11:55,260
-- Yes. So, another question I'm gonna ask you is,
+00:12:04,410 --> 00:12:06,690
+And the more I looked at the telco industry,
 
 236
-00:11:55,560 --> 00:11:59,040
-how has the other departments in C*hapter been historian
+00:12:07,020 --> 00:12:08,940
+the more it seemed that it was right before.
 
 237
-00:11:59,040 --> 00:12:01,680
-from working with the pre-law program
+00:12:09,854 --> 00:12:13,395
+Innovation or fresh thinking, uh, to restore it
 
 238
-00:12:01,680 --> 00:12:04,500
-and then philosophy, things like that,
+00:12:13,395 --> 00:12:16,094
+to its rightful place, which should be really
 
 239
-00:12:04,560 --> 00:12:09,090
-how have those other departments, basically,
+00:12:16,125 --> 00:12:19,515
+glory days as everybody is relying on their
 
 240
-00:12:09,090 --> 00:12:12,420
-impacted your work in the WGS department?
+00:12:19,515 --> 00:12:22,214
+phones and really using the connectivity that
 
 241
-00:12:14,010 --> 00:12:17,370
-- So one thing with the philosophy department,
+00:12:22,214 --> 00:12:24,494
+we provide and for which there is no substitute.
 
 242
-00:12:17,400 --> 00:12:20,970
-you know, and having to be work in conjunction with them
+00:12:24,704 --> 00:12:25,545
+Yeah, absolutely.
 
 243
-00:12:20,970 --> 00:12:23,970
-is that, you know, knowing some of the faculty,
+00:12:26,025 --> 00:12:27,405
+So is it the challenge that attacks?
 
 244
-00:12:25,440 --> 00:12:28,260
-such as Holly Hayes is one faculty member.
+00:12:27,435 --> 00:12:27,795
+Yes.
 
 245
-00:12:29,400 --> 00:12:31,410
-From working with her and talking to her,
+00:12:27,795 --> 00:12:29,234
+And you obviously love a challenge, but
 
 246
-00:12:31,410 --> 00:12:35,640
-she developed a core course called feminism and philosophy.
+00:12:29,234 --> 00:12:31,064
+it wasn't just a challenging sector.
 
 247
-00:12:35,940 --> 00:12:38,580
-So it's a new course that philosophy majors can take,
+00:12:31,125 --> 00:12:32,204
+It's a challenging time.
 
 248
-00:12:38,580 --> 00:12:42,150
-but our WGS majors can take as well, all right?
+00:12:32,204 --> 00:12:34,334
+So you walked into this challenging
 
 249
-00:12:42,150 --> 00:12:47,400
-So looking at that interdisciplinary, you know, opportunity,
+00:12:34,334 --> 00:12:36,494
+sector at the most challenging time.
 
 250
-00:12:47,460 --> 00:12:49,140
-she developed this new course.
+00:12:37,425 --> 00:12:37,935
+Of all.
 
 251
-00:12:50,910 --> 00:12:52,350
-Pre-law, it's the same thing.
+00:12:37,935 --> 00:12:39,495
+And how have you coped with that?
 
 252
-00:12:52,350 --> 00:12:54,990
-I have some students within the pre law program
+00:12:39,915 --> 00:12:40,905
+Well, obviously I couldn't have
 
 253
-00:12:55,170 --> 00:12:57,330
-who are not sure what area of the law
+00:12:40,905 --> 00:12:43,095
+predicted that nobody could have.
 
 254
-00:12:57,330 --> 00:12:58,560
-they want to go into.
+00:12:43,485 --> 00:12:45,885
+Um, and, and it was, it was difficult.
 
 255
-00:13:00,000 --> 00:13:03,630
-So, they're looking more at law that,
+00:12:45,885 --> 00:12:49,395
+I think, um, I had the privilege of coming
 
 256
-00:13:03,660 --> 00:13:05,880
-you know, protects the rights of innocents.
+00:12:49,395 --> 00:12:51,825
+in as the deputy CEO first, so that I got
 
 257
-00:13:05,910 --> 00:13:09,120
-Human rights laws, social justice law.
+00:12:51,825 --> 00:12:53,925
+a period of time to learn the industry.
 
 258
-00:13:09,330 --> 00:13:14,940
-And again, that is so connected to what we do here in WGS.
+00:12:54,795 --> 00:12:58,305
+Uh, to formulate a strategy to be really ready to go.
 
 259
-00:13:15,090 --> 00:13:16,770
-So when I have an opportunity,
+00:12:58,665 --> 00:13:01,815
+So we had pretty much planned the perfect first
 
 260
-00:13:16,770 --> 00:13:18,750
-and I'm talking to philosophy students,
+00:13:01,815 --> 00:13:04,935
+day as CEO, the perfect rollout of the strategy,
 
 261
-00:13:18,750 --> 00:13:20,670
-I'm talking to pre-law students.
+00:13:05,325 --> 00:13:07,695
+uh, visiting all the teams around the country.
 
 262
-00:13:20,940 --> 00:13:22,770
-And I especially did this when I was working
+00:13:07,725 --> 00:13:10,125
+I mean, it was the most beautiful plan you've ever seen.
 
 263
-00:13:22,770 --> 00:13:24,900
-with the English department and I still do,
+00:13:10,725 --> 00:13:13,095
+And then we had to throw the entire plan
 
 264
-00:13:25,230 --> 00:13:31,050
-again, is I inform them about how they can use WGS
+00:13:13,395 --> 00:13:16,155
+out the window, uh, and pivot entirely.
 
 265
-00:13:31,050 --> 00:13:32,730
-as a double major, all right?
+00:13:16,155 --> 00:13:18,345
+And I spent my first day at home.
 
 266
-00:13:33,870 --> 00:13:38,700
-To help them you know, build an academic portfolio
+00:13:19,005 --> 00:13:20,445
+Um, so I, I.
 
 267
-00:13:38,910 --> 00:13:41,280
-that will assist them when they go out for their future
+00:13:21,630 --> 00:13:24,810
+You always have to be ready for the unexpected.
 
 268
-00:13:41,280 --> 00:13:41,940
-careers.
+00:13:24,810 --> 00:13:26,850
+It's a bit of a cliche, but you have to be
 
 269
-00:13:42,090 --> 00:13:43,770
-Whether it be graduate school,
+00:13:26,850 --> 00:13:29,880
+willing to adapt, to listen to advice from others
 
 270
-00:13:43,770 --> 00:13:46,800
-or whether it be law school, or whether it's out there,
+00:13:30,270 --> 00:13:31,950
+and then see the good that comes from that.
 
 271
-00:13:46,800 --> 00:13:48,750
-just getting their job right when they're done,
+00:13:31,950 --> 00:13:36,240
+So some of what we pivoted to, uh, in those early days was,
 
 272
-00:13:48,780 --> 00:13:50,370
-you know, with their college career.
+00:13:36,270 --> 00:13:40,620
+uh, we actually introduced a series, uh, on the strategy.
 
 273
-00:13:52,890 --> 00:13:58,680
-- Yes, so, I want to know, like,
+00:13:40,650 --> 00:13:42,450
+It was a weekly series.
 
 274
-00:13:58,740 --> 00:14:01,530
-how has the digests* Department changed,
+00:13:42,450 --> 00:13:44,160
+So the whole company eagerly
 
 275
-00:14:01,560 --> 00:14:04,680
-you and all the years that you've been working here?
+00:13:44,160 --> 00:13:46,320
+anticipated every mixed episode.
 
 276
-00:14:05,370 --> 00:14:09,300
-- All right, so I am the mother of four boys,
+00:13:46,680 --> 00:13:49,440
+And we got to explain the series and record it really well.
 
 277
-00:14:09,360 --> 00:14:12,570
-and I was the mother of four boys before I came to WGS
+00:13:50,295 --> 00:13:52,875
+Professionally produced by the Optus sport team
 
 278
-00:14:12,600 --> 00:14:15,300
-and I knew I was a feminist, all right?
+00:13:52,905 --> 00:13:55,244
+who didn't have football to broadcast at the time.
 
 279
-00:14:15,300 --> 00:14:19,350
-I wanted my boys to also grow up to be feminists,
+00:13:55,814 --> 00:13:58,364
+And now we have this awesome series that all the
 
 280
-00:14:19,740 --> 00:14:23,070
-but working in the WGS department
+00:13:58,364 --> 00:14:01,035
+new starters can watch and that people can rewatch.
 
 281
-00:14:23,100 --> 00:14:29,010
-has given me more of the, I guess,
+00:14:01,035 --> 00:14:02,265
+If they need a refresher on the
 
 282
-00:14:29,820 --> 00:14:33,360
-the ability to, to talk to my children,
+00:14:02,265 --> 00:14:04,755
+strategy, we would have never had that.
 
 283
-00:14:33,570 --> 00:14:36,540
-you know, and talk to students and be able
+00:14:05,354 --> 00:14:08,444
+Had we not made the pivot and it's proved to be very useful.
 
 284
-00:14:36,540 --> 00:14:41,190
-to give them some, you know, I guess, historical background
+00:14:08,834 --> 00:14:12,344
+So it was a challenging time, uh, but also a time
 
 285
-00:14:41,220 --> 00:14:43,740
-on what it means to be a feminist, all right?
+00:14:12,375 --> 00:14:15,765
+that really enabled us to make some good points.
 
 286
-00:14:44,040 --> 00:14:46,950
-What is misconstrued when you say feminism
+00:14:16,530 --> 00:14:18,090
+And to galvanize the team together.
 
 287
-00:14:47,220 --> 00:14:49,410
-and to, you know, educate them?
+00:14:18,240 --> 00:14:18,420
+Yeah.
 
 288
-00:14:50,910 --> 00:14:53,640
-You know, so just working in this department,
+00:14:18,450 --> 00:14:20,010
+So you didn't waste a good crisis then?
 
 289
-00:14:55,380 --> 00:14:58,560
-I think it has also let me grow as an individual.
+00:14:20,670 --> 00:14:22,830
+No, Def definitely not.
 
 290
-00:14:58,770 --> 00:15:01,320
-And also as an academic because as I said,
+00:14:22,920 --> 00:14:25,350
+Um, it really helped us also accelerate some of the
 
 291
-00:15:01,530 --> 00:15:03,840
-you know, I came to TCNJ
+00:14:25,350 --> 00:14:27,930
+things we wanted to do because it removed some of
 
 292
-00:15:05,100 --> 00:15:07,320
-within an administrative position,
+00:14:27,930 --> 00:14:30,630
+the barriers and excuses around change management.
 
 293
-00:15:07,680 --> 00:15:10,770
-and already having an undergraduate and graduate degree.
+00:14:31,080 --> 00:14:33,720
+So a good example, there is we had in our three-year
 
 294
-00:15:10,950 --> 00:15:13,920
-But while I was here, because I work for TCNJ,
+00:14:33,720 --> 00:14:36,540
+plan that we were going to change our whole call center.
 
 295
-00:15:13,950 --> 00:15:17,970
-I was also able to get a master's degree in English
+00:14:37,455 --> 00:14:39,975
+To be one that was much more customer centric.
 
 296
-00:15:17,970 --> 00:15:18,690
-literature.
+00:14:40,515 --> 00:14:43,395
+Um, in the old model, if a customer called in
 
 297
-00:15:18,930 --> 00:15:22,680
-But a lot of the courses that I took, were with Dr. Gray,
+00:14:43,395 --> 00:14:45,825
+would transfer them from department to department.
 
 298
-00:15:22,710 --> 00:15:23,250
-all right?
+00:14:45,975 --> 00:14:47,835
+Oh no, that sounds like a billing inquiry.
 
 299
-00:15:23,280 --> 00:15:26,280
-And they were based
+00:14:47,835 --> 00:14:49,365
+Let me transfer it to the billing team.
 
 300
-00:15:26,730 --> 00:15:29,790
-within Women's Gender and Sexuality studies as well.
+00:14:49,725 --> 00:14:51,465
+Oh no, no, that actually sounds
 
 301
-00:15:30,240 --> 00:15:32,430
-And when we started a certificate here,
+00:14:51,465 --> 00:14:53,135
+like it's a problem with coverage.
 
 302
-00:15:32,430 --> 00:15:35,700
-the gender studies graduate certificate,
+00:14:54,000 --> 00:14:55,590
+Uh, transfer you to another team.
 
 303
-00:15:36,480 --> 00:15:39,570
-I was actually the first person to graduate with that
+00:14:55,980 --> 00:14:58,650
+And we wanted to move to a team of experts model,
 
 304
-00:15:39,570 --> 00:15:40,350
-certificate.
+00:14:58,980 --> 00:15:01,800
+where there was a team with all the skills that were
 
 305
-00:15:40,590 --> 00:15:42,930
-Because it was there for me, and I wanted to know more
+00:15:01,800 --> 00:15:04,260
+needed to answer your question on the first call.
 
 306
-00:15:42,930 --> 00:15:44,610
-of the discipline that I was working in,
+00:15:04,950 --> 00:15:06,630
+So that was in our three year plan.
 
 307
-00:15:44,610 --> 00:15:48,450
-so I took graduate level courses and got that graduate
+00:15:07,050 --> 00:15:08,190
+And then what happened in the
 
 308
-00:15:48,450 --> 00:15:49,200
-certificate.
+00:15:08,190 --> 00:15:10,580
+middle of COVID is that we actually.
 
 309
-00:15:49,470 --> 00:15:54,450
-So I'm not only a member of this department,
+00:15:11,230 --> 00:15:14,949
+90% of our coal Sante capacity, because we had simultaneous
 
 310
-00:15:55,200 --> 00:15:56,880
-in regards to my employment status,
+00:15:14,949 --> 00:15:17,920
+shutdowns across Australia, the Philippines and India.
 
 311
-00:15:56,880 --> 00:15:59,970
-but I am also how I like to look at myself,
+00:15:18,160 --> 00:15:21,130
+So despite a very diversified strategy, we lost
 
 312
-00:16:00,000 --> 00:16:03,540
-you know, as a product of this department as well.
+00:15:21,130 --> 00:15:25,750
+all of that, um, access to our teams and, um, yeah.
 
 313
-00:16:03,810 --> 00:16:07,080
-Because I took courses with Dr. Jacks, just like you did,
+00:15:26,380 --> 00:15:28,270
+Sometimes when I say that people think will come
 
 314
-00:16:07,260 --> 00:16:10,950
-I took courses with Dr. Landro, I took courses with Dr.
+00:15:28,280 --> 00:15:30,370
+executive just coming on the weekend and answer a
 
 315
-00:16:10,950 --> 00:16:11,520
-Gray.
+00:15:30,370 --> 00:15:34,270
+few calls, but, but we get, uh, 400,000 calls a week.
 
 316
-00:16:11,880 --> 00:16:14,370
-I took courses with, you know, a number of people
+00:15:34,270 --> 00:15:36,760
+So when you lose 90% of your capacity
 
 317
-00:16:14,370 --> 00:16:16,320
-from the English Department as well.
+00:15:36,760 --> 00:15:38,200
+to answer that that's a lot of calls.
 
 318
-00:16:16,560 --> 00:16:21,030
-So they're not only my working peers,
+00:15:38,200 --> 00:15:40,180
+That's a lot of customers at the moment.
 
 319
-00:16:21,030 --> 00:16:22,770
-but they're my mentors as well.
+00:15:40,180 --> 00:15:43,090
+They need their connectivity, most ringing us for help.
 
 320
-00:16:22,770 --> 00:16:26,040
-So just as much as you are a student, I was a student as
+00:15:43,540 --> 00:15:45,070
+So we had to be very creative in
 
 321
-00:16:26,040 --> 00:16:26,400
-well.
+00:15:45,070 --> 00:15:46,390
+how we pivoted to get through.
 
 322
-00:16:26,400 --> 00:16:31,440
-- Yes, yes.
+00:15:47,730 --> 00:15:50,130
+And a lot of that involves us taking the teams
 
 323
-00:16:33,030 --> 00:16:36,930
-Can you talk about your experience of taking those classes
+00:15:50,130 --> 00:15:52,500
+we had and cross training them on new things.
 
 324
-00:16:37,320 --> 00:16:41,070
-and working with them over the years, office*?
+00:15:52,500 --> 00:15:54,720
+And so people who used to be in that billing team
 
 325
-00:16:41,550 --> 00:16:46,890
-- Okay, so it was a little bit, what, it was fabulous!
+00:15:54,960 --> 00:15:57,750
+went out, answering all sorts of questions and we
 
 326
-00:16:47,850 --> 00:16:50,760
-Because I was able to, you know, really pick
+00:15:57,750 --> 00:16:00,570
+decided wouldn't it be a pity to let everybody, as
 
 327
-00:16:50,760 --> 00:16:53,640
-the brains of people that I respected, all right?
+00:16:00,570 --> 00:16:03,590
+soon as the crisis abated, after a few weeks, Go
 
 328
-00:16:53,640 --> 00:16:57,090
-You know, Dr. John Landrieu, who's now retired,
+00:16:03,590 --> 00:16:06,530
+back into their old teams and back to their old ways.
 
 329
-00:16:57,120 --> 00:16:58,560
-you know, and who I love,
+00:16:06,890 --> 00:16:09,050
+Everybody was so invigorated by learning new
 
 330
-00:16:59,370 --> 00:17:02,370
-I took a course on him, a graduate course in masculinities.
+00:16:09,050 --> 00:16:11,390
+skills and taking on new responsibilities.
 
 331
-00:17:02,640 --> 00:17:05,940
-And we both have a passion for sports, all right?
+00:16:11,660 --> 00:16:14,120
+We decided to really accelerate that push and move
 
 332
-00:17:05,970 --> 00:17:09,660
-So, we were able to actually learn from one another
+00:16:14,120 --> 00:16:17,570
+straight into a team of experts model and really
 
 333
-00:17:09,660 --> 00:17:13,050
-because he appreciates maybe collegiate basketball,
+00:16:17,570 --> 00:16:20,660
+bring forward that change by multiple years.
 
 334
-00:17:13,050 --> 00:17:17,160
-a pro basketball whereas I appreciate, you know,
+00:16:20,660 --> 00:16:24,020
+So I think it always is good to understand
 
 335
-00:17:17,940 --> 00:17:20,400
-American football and baseball.
+00:16:24,020 --> 00:16:26,900
+that a crisis presents major challenges.
 
 336
-00:17:20,700 --> 00:17:24,210
-And we're also both parents of sons.
+00:16:27,395 --> 00:16:29,225
+But also some huge opportunities.
 
 337
-00:17:24,450 --> 00:17:26,430
-And so we were able to bring that together
+00:16:29,285 --> 00:16:29,855
+Absolutely.
 
 338
-00:17:26,430 --> 00:17:28,080
-within the course that we took together
+00:16:29,855 --> 00:16:31,745
+And I think it's a type of leadership or a
 
 339
-00:17:28,079 --> 00:17:31,049
-and really dive deep into what masculinity
+00:16:31,745 --> 00:16:34,565
+style of leadership that enables that change.
 
 340
-00:17:31,290 --> 00:17:33,000
-within this country looks like,
+00:16:34,595 --> 00:16:36,545
+And, you know, you've, you've clearly moved
 
 341
-00:17:33,000 --> 00:17:35,670
-especially in regards to, you know, sports.
+00:16:36,545 --> 00:16:39,305
+Optus to, and far more agile organization
 
 342
-00:17:36,480 --> 00:17:40,440
-And then also, when he was teaching an FSP on sports,
+00:16:39,305 --> 00:16:40,925
+in the 18 months of your leadership.
 
 343
-00:17:41,730 --> 00:17:44,670
-you know, I sat in on that course with him,
+00:16:41,555 --> 00:16:43,415
+Uh, what do you think it is about your leadership
 
 344
-00:17:44,910 --> 00:17:46,500
-and actually co-taught it.
+00:16:43,445 --> 00:16:46,955
+that has, that enables change to happen so fast?
 
 345
-00:17:46,650 --> 00:17:48,630
-And so it was a fabulous experience,
+00:16:46,955 --> 00:16:48,905
+Because not every leader is open to
 
 346
-00:17:48,630 --> 00:17:51,480
-not only for us, but also for our students.
+00:16:48,905 --> 00:16:50,825
+change in the way that you've described.
 
 347
-00:17:51,840 --> 00:17:54,930
-And with Dr. Gray and the literature courses,
+00:16:52,055 --> 00:16:53,915
+I think it's, it's a lot of things.
 
 348
-00:17:54,960 --> 00:17:58,890
-she exposed me to, you know, British lit,
+00:16:53,915 --> 00:16:55,595
+I think it starts with.
 
 349
-00:17:59,370 --> 00:18:02,160
-you know, during the Victorian and Gothic eras,
+00:16:56,490 --> 00:16:59,400
+I'm fairly clear understanding for me that
 
 350
-00:18:02,160 --> 00:18:04,200
-which I absolutely love.
+00:16:59,490 --> 00:17:01,050
+everything good that's going to happen at
 
 351
-00:18:04,860 --> 00:18:07,350
-So we also, you know, working with them,
+00:17:01,050 --> 00:17:03,870
+Apttus is going to happen because of our people.
 
 352
-00:18:07,380 --> 00:18:10,860
-you know, is wonderful, but a deeper respect
+00:17:04,020 --> 00:17:04,319
+Yeah.
 
 353
-00:18:10,860 --> 00:18:13,080
-for the knowlege they bring to the classroom.
+00:17:04,649 --> 00:17:07,379
+So, you know, some people think of the telco assets
 
 354
-00:18:13,410 --> 00:18:15,930
-and also knowing how lucky our students are
+00:17:07,379 --> 00:17:10,260
+as the network, and that is absolutely true, but
 
 355
-00:18:15,930 --> 00:18:17,730
-to be able to work with them.
+00:17:10,260 --> 00:17:13,109
+fundamentally our most important asset is our people.
 
 356
-00:18:22,620 --> 00:18:23,820
-- Talked to you earlier,
+00:17:13,560 --> 00:17:16,020
+And I know of how people have a great
 
 357
-00:18:23,820 --> 00:18:29,340
-your affiliations with AVI living space*, Will and Shioda.
+00:17:16,020 --> 00:17:17,849
+vision that they're inspired by.
 
 358
-00:18:30,120 --> 00:18:32,550
-How did that impact your work?
+00:17:18,180 --> 00:17:20,599
+They have all the tools and support to achieve that.
 
 359
-00:18:32,580 --> 00:18:35,610
-And over the years, how has that changed you?
+00:17:21,435 --> 00:17:24,885
+A good strategy, real clarity on what they need to do, and
 
 360
-00:18:37,290 --> 00:18:42,210
-- So again, I think I mentioned that I love working,
+00:17:24,885 --> 00:17:27,795
+then the empowerment to actually go and make that happen.
 
 361
-00:18:42,240 --> 00:18:45,450
-you know, with students, advising them,
+00:17:28,185 --> 00:17:29,655
+We're going to get great outcomes.
 
 362
-00:18:46,530 --> 00:18:48,900
-being a, you know, problem solver
+00:17:30,014 --> 00:17:33,045
+So, uh, I definitely bring a strong focus on people
 
 363
-00:18:48,930 --> 00:18:51,750
-or working with them to solve a problem.
+00:17:33,045 --> 00:17:36,105
+and a lot of what I've focused my time and energy
 
 364
-00:18:52,230 --> 00:18:56,040
-So when, you know, I was asked by student organizations,
+00:17:36,105 --> 00:17:39,764
+on in the last 18 months is the people agenda the
 
 365
-00:18:56,040 --> 00:18:58,680
-they need a faculty staff advisor,
+00:17:39,764 --> 00:17:43,455
+culture, the behaviors we want to see, um, and
 
 366
-00:18:59,190 --> 00:19:01,500
-you know, I was more than happy to say yes,
+00:17:43,455 --> 00:17:46,065
+listening and bringing out the voices of our very.
 
 367
-00:19:01,500 --> 00:19:03,180
-that I would be able to do that with them.
+00:17:46,890 --> 00:17:47,610
+Workforce.
 
 368
-00:19:04,650 --> 00:19:08,790
-What I enjoy is when we work together
+00:17:47,970 --> 00:17:49,530
+So I think that's definitely an
 
 369
-00:19:08,820 --> 00:19:10,890
-to sponsor an event.
+00:17:49,530 --> 00:17:52,380
+element, but then also I love ideas.
 
 370
-00:19:12,660 --> 00:19:16,890
-You know, whether it was Luna fast, whether it's SlutWalk,
+00:17:52,410 --> 00:17:55,170
+I just naturally gravitate towards ideas.
 
 371
-00:19:17,100 --> 00:19:19,020
-whether it's during women's history month
+00:17:55,200 --> 00:17:59,580
+I encourage ideas and I do push the teams very hard.
 
 372
-00:19:19,260 --> 00:19:20,940
-to bring in a guest speaker,
+00:18:00,090 --> 00:18:01,890
+And I think that it enables us
 
 373
-00:19:21,150 --> 00:19:23,760
-or they co-sponsor conferences with me.
+00:18:01,890 --> 00:18:03,750
+to work in a, in a different way.
 
 374
-00:19:24,630 --> 00:19:29,400
-So I look at it as advantageous
+00:18:03,750 --> 00:18:05,340
+And we have been delivering some
 
 375
-00:19:29,430 --> 00:19:31,860
-for both the department and me
+00:18:05,340 --> 00:18:07,410
+amazing innovation for our customers.
 
 376
-00:19:31,890 --> 00:19:33,840
-and for the student organization,
+00:18:07,890 --> 00:18:10,470
+Um, but also every strength also is a way.
 
 377
-00:19:34,020 --> 00:19:37,830
-that we get to participate in these different types of,
+00:18:11,355 --> 00:18:14,835
+So I, I'm definitely very acutely aware that I'm pushing
 
 378
-00:19:37,860 --> 00:19:40,410
-you know, learning experience,
+00:18:14,835 --> 00:18:18,495
+the organization very hard and it is taking strain.
 
 379
-00:19:40,410 --> 00:19:43,350
-not just in the classroom, but also outside of the
+00:18:18,524 --> 00:18:20,985
+Like people are working very hard.
 
 380
-00:19:43,350 --> 00:19:44,070
-classroom.
+00:18:20,985 --> 00:18:24,735
+They're tired with rolling out a lot of things, and
 
 381
-00:19:44,400 --> 00:19:46,380
-And so I get excited by the events
+00:18:24,735 --> 00:18:27,225
+there's a big ambitious agenda of more things to happen.
 
 382
-00:19:46,380 --> 00:19:50,340
-that these organizations either put on or sponsor
+00:18:27,465 --> 00:18:28,875
+So that does put a certain amount
 
 383
-00:19:50,340 --> 00:19:52,680
-and being able to be a part of it.
+00:18:28,875 --> 00:18:30,375
+of strain on the organization.
 
 384
-00:19:53,790 --> 00:19:56,370
-It's just another way for us to,
+00:18:30,375 --> 00:18:32,024
+And so I also need to have people
 
 385
-00:19:57,030 --> 00:19:59,460
-form these ties and connections.
+00:18:32,024 --> 00:18:34,605
+around me who say enough is enough.
 
 386
-00:19:59,820 --> 00:20:02,910
-And, you know, I enjoy being able
+00:18:34,605 --> 00:18:35,925
+You're going too hard.
 
 387
-00:20:02,910 --> 00:20:05,130
-to assist the student organizations,
+00:18:35,925 --> 00:18:36,075
+You got.
 
 388
-00:20:05,130 --> 00:20:08,160
-realizing that coming by a faculty and staff advisor
+00:18:36,750 --> 00:18:37,590
+Too fast.
 
 389
-00:20:08,430 --> 00:20:10,650
-is pretty hard, you know,
+00:18:37,590 --> 00:18:39,330
+You need to give people time to catch up.
 
 390
-00:20:11,070 --> 00:20:13,590
-and if they're really not asking much of me,
+00:18:39,930 --> 00:18:41,370
+Well, you must be doing something, right,
 
 391
-00:20:13,590 --> 00:20:18,750
-and if I can make your organised organization successful,
+00:18:41,370 --> 00:18:43,620
+because I've learned that since you became CEO
 
 392
-00:20:18,750 --> 00:20:20,850
-you know, I am happy to do that.
+00:18:43,680 --> 00:18:45,810
+engagement has gone up significantly adopters.
 
 393
-00:20:21,150 --> 00:20:23,730
-So I not only work with student organizations,
+00:18:46,230 --> 00:18:48,629
+Um, your engagement score actually went up 11%.
 
 394
-00:20:23,730 --> 00:20:25,770
-but within the college itself,
+00:18:48,720 --> 00:18:50,850
+Um, so what's the secret.
 
 395
-00:20:25,800 --> 00:20:28,440
-I sit on a number of different committees.
+00:18:50,850 --> 00:18:52,290
+I know that you value people.
 
 396
-00:20:28,740 --> 00:20:31,560
-So I'm on the exec board of the staff senate,
+00:18:52,290 --> 00:18:54,030
+It's very clear that you value people.
 
 397
-00:20:33,060 --> 00:20:34,680
-here at the College of New Jersey,
+00:18:54,330 --> 00:18:56,220
+Um, but not everybody that values people
 
 398
-00:20:34,680 --> 00:20:38,490
-getting to work with my co workers, as well,
+00:18:56,310 --> 00:18:57,629
+hasn't engaged with school like that.
 
 399
-00:20:39,180 --> 00:20:40,680
-because we have shared governance
+00:18:57,870 --> 00:19:00,420
+Um, what do you think is unique to.
 
 400
-00:20:40,680 --> 00:20:42,900
-and I'm sure other people have talked about that.
+00:19:01,709 --> 00:19:04,889
+Yeah, I think for us, it's about engaging the
 
 401
-00:20:43,080 --> 00:20:45,870
-And so staff senate always has an input on,
+00:19:04,889 --> 00:19:07,949
+whole team in our own cultural transformation.
 
 402
-00:20:45,870 --> 00:20:48,000
-you know, if there's going to be policy changes
+00:19:07,949 --> 00:19:11,699
+So you can appreciate people, but are you willing to put the
 
 403
-00:20:48,000 --> 00:20:51,630
-that are going to affect the staff here on campus.
+00:19:11,699 --> 00:19:15,600
+time and energy into actually changing people's behaviors?
 
 404
-00:20:52,440 --> 00:20:53,910
-I sit on the curriculum committee
+00:19:15,629 --> 00:19:16,470
+That's very hard.
 
 405
-00:20:53,910 --> 00:20:56,100
-for humanities and social sciences.
+00:19:16,470 --> 00:19:17,459
+It's quite daunting.
 
 406
-00:20:56,250 --> 00:20:58,800
-So whenever new courses are being proposed
+00:19:17,879 --> 00:19:19,290
+So we've done a number of things.
 
 407
-00:20:58,800 --> 00:21:01,200
-by different departments or disciplines,
+00:19:19,290 --> 00:19:21,929
+I mean, um, we actually defined,
 
 408
-00:21:01,200 --> 00:21:03,450
-I sit on that committee and give input.
+00:19:21,990 --> 00:19:24,270
+uh, a purpose for the company.
 
 409
-00:21:05,100 --> 00:21:08,400
-And I also sit on the council for Global Engagement
+00:19:24,659 --> 00:19:28,679
+Um, it, our purpose is to power optimism with.
 
 410
-00:21:08,730 --> 00:21:12,270
-because for the past maybe 10 years,
+00:19:29,865 --> 00:19:31,455
+Um, and that really allows our
 
 411
-00:21:12,570 --> 00:21:16,830
-I had worked with Dr. Nicolosi in taking students abroad
+00:19:31,455 --> 00:19:34,245
+people to unite behind a common goal.
 
 412
-00:21:16,830 --> 00:21:18,990
-to fact on faculty led programs abroad.
+00:19:34,725 --> 00:19:38,324
+We also then defined the eight cultural attributes.
 
 413
-00:21:19,320 --> 00:21:22,560
-So we have taken students on three week,
+00:19:38,324 --> 00:19:41,445
+We were going to aspire to four of those attributes
 
 414
-00:21:23,040 --> 00:21:29,820
-you know, academic experiences to Italy, to London, and to
+00:19:41,445 --> 00:19:43,425
+were things we already did well strengths.
 
 415
-00:21:30,120 --> 00:21:30,720
-Ireland,
+00:19:43,425 --> 00:19:45,375
+We wanted to amplify and strengthen.
 
 416
-00:21:30,750 --> 00:21:33,270
-all different courses for WGS.
+00:19:45,824 --> 00:19:48,615
+And four of them were ways in which we
 
 417
-00:21:33,540 --> 00:21:35,550
-That give our students the opportunity
+00:19:48,615 --> 00:19:50,475
+thought we could be better in the future.
 
 418
-00:21:35,550 --> 00:21:39,030
-to study abroad if they had never been able to do it before.
+00:19:50,955 --> 00:19:54,104
+And then for each of those eight cultural attributes, we
 
 419
-00:21:39,270 --> 00:21:41,550
-But also if they're not able to go away for a whole
+00:19:54,104 --> 00:19:57,344
+defined a behavior that people could put into practice.
 
 420
-00:21:41,550 --> 00:21:42,390
-semester,
+00:19:57,905 --> 00:20:00,155
+To live up to that cultural value.
 
 421
-00:21:42,540 --> 00:21:45,600
-giving them three weeks abroad and opening their eyes,
+00:20:00,635 --> 00:20:02,465
+So that was all very structured.
 
 422
-00:21:45,600 --> 00:21:50,280
-you know, to other cultures, is just a fabulous experience.
+00:20:02,495 --> 00:20:07,115
+We then brought in PWC to do a big culture audit of what
 
 423
-00:21:50,700 --> 00:21:56,430
-And I think also going with students to conferences.
+00:20:07,115 --> 00:20:09,695
+is the current culture and where are the gaps between
 
 424
-00:21:56,670 --> 00:22:02,010
-So, such as NWSA, National Women's Studies Association,
+00:20:09,695 --> 00:20:11,945
+the current culture and the one we're trying to build.
 
 425
-00:22:02,190 --> 00:22:05,520
-who had who prior to COVID had their annual conference.
+00:20:12,365 --> 00:20:13,925
+And then we had introduce a range
 
 426
-00:22:05,670 --> 00:22:09,150
-So for about six times, we've taken students with us
+00:20:13,925 --> 00:20:16,115
+of, of real interventions to get.
 
 427
-00:22:09,150 --> 00:22:10,980
-so they can experience it.
+00:20:17,030 --> 00:20:19,580
+So interventions, for example, rolling out the
 
 428
-00:22:11,220 --> 00:22:13,050
-And when they get to that conference,
+00:20:19,580 --> 00:20:22,610
+behaviors with training and reinforcing them.
 
 429
-00:22:13,080 --> 00:22:16,020
-it is so eye opening, because there are there
+00:20:23,000 --> 00:20:25,100
+And now the intervention was aligning all
 
 430
-00:22:16,020 --> 00:22:19,140
-with 1000s of other students,
+00:20:25,100 --> 00:20:27,710
+of our KPIs to our vision and strategy.
 
 431
-00:22:19,320 --> 00:22:23,610
-and they are able to sit in on panels that are are being,
+00:20:28,130 --> 00:20:32,120
+Um, another intervention was introducing, um,
 
 432
-00:22:23,610 --> 00:22:29,760
-you know, given by the people that they are reading texts.
+00:20:32,750 --> 00:20:35,840
+development week where people could focus on their own
 
 433
-00:22:30,990 --> 00:22:34,350
-So you run Angela Davis, you run into Gloria Steinem.
+00:20:35,840 --> 00:20:39,560
+development, a lot of training, uh, learning Fiesta
 
 434
-00:22:34,770 --> 00:22:39,390
-You know, you run into all of these people that you're
+00:20:39,560 --> 00:20:41,990
+that went around all the training we wanted people
 
 435
-00:22:39,420 --> 00:22:39,960
-reading
+00:20:41,990 --> 00:20:45,490
+to do, and a KPI that we have now for everybody to.
 
 436
-00:22:39,960 --> 00:22:42,090
-and oh, there they are, they're alive person.
+00:20:46,260 --> 00:20:49,350
+12 hours of their own learning in a year.
 
 437
-00:22:42,300 --> 00:22:44,010
-And you get to hear them, all right?
+00:20:49,740 --> 00:20:53,430
+So, um, a lot of different interventions to actually show
 
 438
-00:22:44,010 --> 00:22:46,680
-When they're giving either a keynote or sitting on a panel.
+00:20:53,430 --> 00:20:56,400
+that you're serious, you care about people and you're
 
 439
-00:22:46,860 --> 00:22:49,860
-So I think that is one of the most valuable experiences
+00:20:56,400 --> 00:20:59,040
+willing to put in the effort and the organizational for.
 
 440
-00:22:49,860 --> 00:22:52,470
-that our students have, you know, is going to this
+00:21:00,060 --> 00:21:01,950
+To make that come to fruition and
 
 441
-00:22:52,470 --> 00:22:53,220
-conference.
+00:21:01,950 --> 00:21:03,120
+you're really passionate about culture.
 
 442
-00:22:56,520 --> 00:23:04,560
-- You spoke about how the clubs that you're affiliated with,
+00:21:03,120 --> 00:21:04,320
+I can, I can hear it.
 
 443
-00:23:04,950 --> 00:23:06,420
-as well as your communities.
+00:21:05,190 --> 00:21:06,780
+Uh, and I honestly wish I'd worked here
 
 444
-00:23:07,500 --> 00:23:10,380
-So for the events side of things,
+00:21:06,780 --> 00:21:08,520
+because that would be, that sounds fantastic.
 
 445
-00:23:10,380 --> 00:23:14,160
-what has been an amazing event that you saw start out,
+00:21:09,030 --> 00:21:11,010
+Um, what is it about culture?
 
 446
-00:23:14,760 --> 00:23:17,430
-grow into an amazing thing that is today.
+00:21:11,010 --> 00:21:14,190
+That's so important for a telco and, uh, and I guess
 
 447
-00:23:17,430 --> 00:23:19,560
-- Ah, let's see.
+00:21:14,190 --> 00:21:15,990
+for innovation, what, why do you think it matters
 
 448
-00:23:21,840 --> 00:23:25,800
-Well, I'm really, really proud of how tri OTA* has grown.
+00:21:15,990 --> 00:21:18,450
+so much and how much of a difference can it make?
 
 449
-00:23:25,860 --> 00:23:29,580
-Okay, you know, from starting here as a chapter,
+00:21:18,960 --> 00:21:21,390
+Yeah, um, it, it makes all the difference
 
 450
-00:23:29,970 --> 00:23:33,960
-and seeing it flourish, with the number of students
+00:21:21,420 --> 00:21:25,140
+because actually in my experience, in any
 
 451
-00:23:33,960 --> 00:23:37,350
-who apply to it, because it is an honor society. All right?
+00:21:25,290 --> 00:21:27,960
+group, there are any group of any size.
 
 452
-00:23:37,350 --> 00:23:39,450
-So to be able to be a part of Triaud*,
+00:21:27,960 --> 00:21:28,950
+There are people who have.
 
 453
-00:23:39,480 --> 00:23:42,570
-you haven't had a certain number of WGS courses
+00:21:29,700 --> 00:21:32,880
+Strong views or inclinations about what's not
 
 454
-00:23:42,780 --> 00:23:46,980
-and a certain GPA, and our students have that. all right?
+00:21:32,880 --> 00:21:34,980
+going so well and what could be done differently
 
 455
-00:23:47,010 --> 00:23:51,030
-So seeing how that organization has flourished.
+00:21:34,980 --> 00:21:37,770
+to make it better, but often the culture can
 
 456
-00:23:51,600 --> 00:23:56,730
-I also work with PRISM, our LGBTQ student organization.
+00:21:37,770 --> 00:21:40,260
+suppress that or make people not voice it.
 
 457
-00:23:57,120 --> 00:24:00,720
-And President, you know, what I'm really proud about that
+00:21:40,560 --> 00:21:42,690
+So they'd rather, you know, get together in
 
 458
-00:24:00,720 --> 00:24:01,080
-is,
+00:21:42,690 --> 00:21:45,480
+small groups and complain about it, then actually
 
 459
-00:24:01,110 --> 00:24:03,960
-you know, it works like clockwork,
+00:21:45,510 --> 00:21:48,030
+act on it and do something proactive about it.
 
 460
-00:24:03,960 --> 00:24:08,670
-they understand perfectly what a student organization is,
+00:21:48,510 --> 00:21:51,120
+So, uh, in my view, if you can get the culture right,
 
 461
-00:24:08,820 --> 00:24:11,520
-how to ask for funding from Student Finance Board
+00:21:51,150 --> 00:21:53,850
+then you actually have everybody's complaints and ideas.
 
 462
-00:24:11,520 --> 00:24:13,440
-and what events they are going to hold.
+00:21:54,600 --> 00:21:57,360
+Constructively channeled to making improvements
 
 463
-00:24:13,710 --> 00:24:15,540
-You know, whether it's through gay IPR*,
+00:21:57,360 --> 00:21:59,160
+that they make a difference for customers,
 
 464
-00:24:16,140 --> 00:24:20,220
-or LGBTQ Awareness Month in the event that they hold
+00:21:59,160 --> 00:22:01,440
+colleagues, and ultimately shareholders.
 
 465
-00:24:20,250 --> 00:24:25,590
-and they always have the ball, the gay ball,
+00:22:01,920 --> 00:22:05,030
+So, so one part of the, the culture program and,
 
 466
-00:24:26,130 --> 00:24:28,770
-and raise money for different,
+00:22:05,030 --> 00:22:07,620
+and our priority, which is called amazing people.
 
 467
-00:24:29,310 --> 00:24:34,500
-you know, nonprofits within our local or state community.
+00:22:07,800 --> 00:22:08,240
+So one of our.
 
 468
-00:24:34,830 --> 00:24:36,870
-So, being in PRISM,
+00:22:09,210 --> 00:22:11,190
+Uh, strategic pillars.
 
 469
-00:24:36,900 --> 00:24:40,470
-you know, also works as guidance to new organizations.
+00:22:11,640 --> 00:22:15,030
+Um, one aspect of that is innovation mindset.
 
 470
-00:24:40,470 --> 00:24:42,300
-So, if a new organization wants to know
+00:22:15,090 --> 00:22:17,340
+And that's also about training people to look for
 
 471
-00:24:42,360 --> 00:24:44,400
-how to get their feet off the ground,
+00:22:17,340 --> 00:22:20,160
+innovation, to be comfortable, voicing it, to have
 
 472
-00:24:44,400 --> 00:24:45,840
-how does an organization run?
+00:22:20,160 --> 00:22:23,129
+a culture of experimentation, uh, to know that
 
 473
-00:24:46,020 --> 00:24:47,580
-I always say take a look at PRISM.
+00:22:23,129 --> 00:22:25,260
+we're funding, new ideas that we're willing to.
 
 474
-00:24:47,820 --> 00:24:50,310
-Alright, because they know things they have things down.
+00:22:25,975 --> 00:22:28,015
+Tri world first innovation.
 
 475
-00:24:50,640 --> 00:24:53,820
-Because they've been in existence for so many years, okay?
+00:22:28,435 --> 00:22:31,255
+Um, and I think if you instill that idea that we're,
 
 476
-00:24:54,060 --> 00:24:55,890
-So of course, you would expect that.
+00:22:31,255 --> 00:22:33,985
+open-minded, we're willing to do things in new way.
 
 477
-00:24:56,070 --> 00:24:59,400
-But, you know, having to use them as a role model,
+00:22:34,045 --> 00:22:36,805
+We've want people to speak up and voice their ideas.
 
 478
-00:24:59,430 --> 00:25:03,390
-I think is quite advantageous to any new organization
+00:22:37,075 --> 00:22:39,385
+We'll actually fund some of those initiatives.
 
 479
-00:25:03,390 --> 00:25:07,620
-that is faltering or not sure how to get up and get running.
+00:22:39,685 --> 00:22:43,075
+We'll bring in engaging speakers from outside the industry.
 
 480
-00:25:08,640 --> 00:25:11,340
-But the events that we have co-sponsored together,
+00:22:43,405 --> 00:22:47,310
+Uh, Uh, inside the industry, but from other markets and
 
 481
-00:25:11,340 --> 00:25:13,020
-you know, I'm always so proud of..
+00:22:47,310 --> 00:22:51,330
+we'll help people stimulate those ideas that all creates
 
 482
-00:25:13,770 --> 00:25:16,320
-Whether it's bringing, you know, co-sponsoring
+00:22:51,330 --> 00:22:55,230
+a culture that enables ideas to flourish and people to
 
 483
-00:25:16,320 --> 00:25:19,650
-the likes of Angela Davis or Gloria Steinem,
+00:22:55,230 --> 00:22:59,940
+feel comfortable being themselves, being open and sharing
 
 484
-00:25:20,010 --> 00:25:24,180
-or in spring 2022, we are bringing Nicole Hannah Jones.
+00:22:59,940 --> 00:23:03,060
+their best ideas and discretionary effort with the company.
 
 485
-00:25:24,480 --> 00:25:27,180
-So, for Women's History Month, we always like
+00:23:03,300 --> 00:23:04,260
+Sounds fantastic.
 
 486
-00:25:27,180 --> 00:25:29,640
-to have these events that are going to,
+00:23:04,530 --> 00:23:07,650
+Um, as a customer, what would I see if I'm, if
 
 487
-00:25:29,670 --> 00:25:31,950
-you know, excite students.
+00:23:07,650 --> 00:23:11,040
+I'm looking at Optus now, um, since you've come
 
 488
-00:25:31,980 --> 00:25:34,260
-And that's what the student organizations do
+00:23:11,040 --> 00:23:13,020
+in as a CEO, what changes have you made for.
 
 489
-00:25:34,260 --> 00:25:37,200
-in conjunction with the WGS department.
+00:23:14,565 --> 00:23:16,455
+Well, if you're a customer, hopefully you would
 
 490
-00:25:37,320 --> 00:25:42,330
-- Yes, that's amazing.
+00:23:16,455 --> 00:23:20,325
+see fantastic plans that give you more choices
 
 491
-00:25:42,390 --> 00:25:44,940
-I love how you talked aboutf PRISM
+00:23:20,355 --> 00:23:22,425
+than any other plan in the market about what you
 
 492
-00:25:45,060 --> 00:25:47,100
-and how it's definitely grown on campus.
+00:23:22,425 --> 00:23:24,825
+want to Inc include and exclude in your plan.
 
 493
-00:25:48,150 --> 00:25:52,590
-Imagine the org, doesn't PRISM office and everything.
+00:23:25,425 --> 00:23:28,605
+Um, hopefully you would see some amazing features
 
 494
-00:25:52,590 --> 00:25:56,850
-I feel like it's an amazing place to just be and like talk.
+00:23:28,635 --> 00:23:31,425
+that you would not actually see at any telco globally,
 
 495
-00:25:57,360 --> 00:26:01,500
-- And the students feel welcome.
+00:23:31,665 --> 00:23:35,785
+for example, uh, Optus pores, which would let you.
 
 496
-00:26:01,500 --> 00:26:04,770
-Because now, I mean, you know, somebody coming new
+00:23:36,495 --> 00:23:41,355
+Simultaneously pause and restart any or all of your
 
 497
-00:26:04,770 --> 00:26:06,900
-to the college who identifies within,
+00:23:41,355 --> 00:23:46,094
+devices, whether that's mobile or connected to your wifi.
 
 498
-00:26:06,900 --> 00:26:10,980
-you know, the LGBTQ plus spectrum,
+00:23:46,725 --> 00:23:49,905
+Um, and what that means is if you wanted to have
 
 499
-00:26:11,310 --> 00:26:14,370
-You know, they want to have a community here.
+00:23:49,905 --> 00:23:52,935
+a really important family dinner and you did
 
 500
-00:26:14,610 --> 00:26:16,770
-And that's what these student organizations do.
+00:23:52,935 --> 00:23:55,725
+not want your kids, uh, getting their Snapchat
 
 501
-00:26:16,800 --> 00:26:21,180
-They give the opportunity for our students to find
+00:23:55,754 --> 00:23:59,355
+notifications, Or, or your kids didn't want you being
 
 502
-00:26:21,180 --> 00:26:21,840
-community,
+00:23:59,355 --> 00:24:02,085
+distracted by all those work texts coming through.
 
 503
-00:26:21,840 --> 00:26:23,430
-and I think that's quite important.
+00:24:02,355 --> 00:24:04,665
+You could just put the whole family on poles.
 
 504
-00:26:25,860 --> 00:26:29,130
-- Thank you. It's been amazing talking to you, Cecilia*.
+00:24:04,965 --> 00:24:05,625
+Fantastic.
 
 505
-00:26:29,340 --> 00:26:32,460
-Is there anything else that you would like to add or say?
+00:24:05,655 --> 00:24:07,754
+Or if you had a son who was really into
 
 506
-00:26:33,510 --> 00:26:34,620
-- I don't think so.
+00:24:07,754 --> 00:24:09,835
+gaming and wouldn't come to the table and.
 
 507
-00:26:34,620 --> 00:26:38,880
-You know, just that I enjoy when I am here,
+00:24:10,620 --> 00:24:13,439
+You can pose just his computer for the next hour
 
 508
-00:26:38,880 --> 00:26:42,570
-you know, in my office with the door open,
+00:24:13,500 --> 00:24:15,629
+and make sure that he joined you at the table.
 
 509
-00:26:42,930 --> 00:26:46,200
-and that our majors feel so comfortable just coming in,
+00:24:16,230 --> 00:24:17,879
+Um, so some of our customers use
 
 510
-00:26:46,230 --> 00:26:49,500
-you know, and saying, "Hi, take a seat. We'll talk about
+00:24:17,879 --> 00:24:19,709
+it as a bit of a digital detox.
 
 511
-00:26:49,500 --> 00:26:50,280
-anything."
+00:24:19,860 --> 00:24:21,750
+We even have customers who use it when
 
 512
-00:26:50,580 --> 00:26:55,320
-I think we take pride in that that we are such an open,
+00:24:21,750 --> 00:24:23,820
+they've got an important work call, they shut
 
 513
-00:26:56,160 --> 00:26:59,340
-you know, discipline and department with our students
+00:24:23,820 --> 00:24:25,770
+everybody else off in the family so that the
 
 514
-00:26:59,520 --> 00:27:01,260
-that they feel this connection.
+00:24:25,770 --> 00:24:28,830
+full strength of wifi is prioritized to them.
 
 515
-00:27:01,440 --> 00:27:03,720
-That they can feel comfortable coming on in,
+00:24:29,310 --> 00:24:31,439
+Um, but it's, those sorts of features, features that
 
 516
-00:27:03,720 --> 00:27:06,120
-just taking a seat and let's talk what's going on
+00:24:31,439 --> 00:24:34,110
+are part of our living network that are very unique.
 
 517
-00:27:06,120 --> 00:27:08,040
-with your life and everything.
+00:24:34,139 --> 00:24:35,639
+They're designed to help customers
 
 518
-00:27:08,730 --> 00:27:10,890
-So building that connections with our students
+00:24:35,639 --> 00:24:36,810
+in the moments that matter.
 
 519
-00:27:10,890 --> 00:27:13,410
-is just an open door policy and I think that
+00:24:37,199 --> 00:24:39,020
+And so hopefully customers will say that and then.
 
 520
-00:27:13,410 --> 00:27:15,570
-is quite important for our students.
+00:24:40,020 --> 00:24:41,580
+Um, not finally.
 
 521
-00:27:16,920 --> 00:27:20,340
-So I want to thank you, Lisa* for taking the time to
+00:24:41,610 --> 00:24:43,800
+I mean, customers should see the fastest five.
 
 522
-00:27:20,340 --> 00:27:21,750
-interview me as well.
+00:24:44,805 --> 00:24:47,865
+Uh, they should also see improved service when they call
 
 523
-00:27:21,810 --> 00:27:27,600
-- Yeah. Yes it's been amazing. I wanna stop the recording.
+00:24:47,865 --> 00:24:51,405
+in improved service options, like messaging from inside our
+
+524
+00:24:51,435 --> 00:24:54,405
+app, uh, and more and more self-service that's out there.
+
+525
+00:24:54,405 --> 00:24:56,445
+So that's a lot to have achieved in 18 months.
+
+526
+00:24:56,445 --> 00:24:56,775
+Kelly.
+
+527
+00:24:56,775 --> 00:24:57,675
+That's fantastic.
+
+528
+00:24:57,765 --> 00:24:59,685
+I did say I pushed the teams really
+
+529
+00:24:59,685 --> 00:25:01,665
+hard and we're doing a lot at pace.
+
+530
+00:25:03,020 --> 00:25:05,490
+It's something we're serious about, but it's also
+
+531
+00:25:05,490 --> 00:25:07,680
+invigorating for our people because they can see
+
+532
+00:25:07,680 --> 00:25:09,690
+that we're making a difference for customers.
+
+533
+00:25:10,320 --> 00:25:11,970
+And one of the things I love
+
+534
+00:25:11,970 --> 00:25:13,920
+about Optus is really our people.
+
+535
+00:25:13,920 --> 00:25:17,250
+We have great people working here and they do truly
+
+536
+00:25:17,250 --> 00:25:19,860
+care about giving our customers a great experience.
+
+537
+00:25:20,130 --> 00:25:23,220
+So helping channel that in this way, um,
+
+538
+00:25:23,250 --> 00:25:25,020
+is very rewarding for the whole team.
+
+539
+00:25:25,380 --> 00:25:26,790
+So now I'm going to ask you a question about.
+
+540
+00:25:27,455 --> 00:25:29,855
+Some of your people, um, because one of the
+
+541
+00:25:29,855 --> 00:25:32,645
+challenges that many businesses face is losing
+
+542
+00:25:32,645 --> 00:25:36,034
+talented women when they start a family and
+
+543
+00:25:36,034 --> 00:25:37,745
+you've been through this, you've started a family.
+
+544
+00:25:37,745 --> 00:25:40,865
+And how did you personally manage these period in your life
+
+545
+00:25:40,865 --> 00:25:43,804
+and how does Optus continue to engage women so that they can
+
+546
+00:25:43,804 --> 00:25:46,264
+come back and continue their brilliant careers with Optus?
+
+547
+00:25:47,254 --> 00:25:47,524
+Yeah.
+
+548
+00:25:47,524 --> 00:25:49,655
+So, um, two great questions in there.
+
+549
+00:25:49,715 --> 00:25:53,794
+I think, um, in terms of Optus, uh, attracting.
+
+550
+00:25:54,615 --> 00:25:57,195
+Female talent is a high priority for us.
+
+551
+00:25:57,525 --> 00:26:00,615
+I think in, in an area where we have a lot of
+
+552
+00:26:00,645 --> 00:26:04,695
+engineering talent and not just engineering talent in
+
+553
+00:26:04,695 --> 00:26:08,205
+the view of sort of software and, and the common talent
+
+554
+00:26:08,595 --> 00:26:11,115
+that, that everybody in the market is competing for.
+
+555
+00:26:11,115 --> 00:26:14,325
+But we also need specialized skills, network, talent,
+
+556
+00:26:14,535 --> 00:26:17,475
+astrophysicists for our satellite business, et cetera.
+
+557
+00:26:17,895 --> 00:26:19,725
+So, um, we're very focused on
+
+558
+00:26:19,725 --> 00:26:21,525
+recruiting, nurturing, and growing.
+
+559
+00:26:22,320 --> 00:26:24,780
+Uh, female talent at, at Optus.
+
+560
+00:26:25,260 --> 00:26:28,590
+Um, and again, we have a number of specific programs
+
+561
+00:26:28,590 --> 00:26:30,960
+that we're putting in place, whether it's mentoring the
+
+562
+00:26:30,960 --> 00:26:34,020
+senior women, uh, whether it's programs to help them
+
+563
+00:26:34,020 --> 00:26:37,280
+with development planning, um, or whether it's actually
+
+564
+00:26:37,290 --> 00:26:40,860
+sort of putting, um, clear goals on the table with our
+
+565
+00:26:40,860 --> 00:26:44,040
+recruitment targets when it comes to women in stem.
+
+566
+00:26:44,700 --> 00:26:47,250
+Um, so all of those were in place and of course we have to
+
+567
+00:26:47,250 --> 00:26:50,520
+have good policies for maternity leave, continuous learning.
+
+568
+00:26:51,165 --> 00:26:53,955
+It et cetera, which are all there and in place.
+
+569
+00:26:54,615 --> 00:26:59,324
+Um, for me personally, I think, um, having a family
+
+570
+00:26:59,324 --> 00:27:02,085
+is a wonderful thing, a wonderful thing to do.
+
+571
+00:27:02,355 --> 00:27:04,725
+Uh, I always knew that I wanted to
+
+572
+00:27:04,725 --> 00:27:07,215
+work full time even when I had kids.
+
+573
+00:27:07,725 --> 00:27:11,054
+And so, um, I just tried to set up my
+
+574
+00:27:11,054 --> 00:27:13,544
+circumstances in a way that would allow that.
+
+575
+00:27:14,385 --> 00:27:17,745
+Happen, without feeling I was compromising on either front.
+
+576
+00:27:18,254 --> 00:27:21,584
+Um, so for me, that involved outsourcing as much
+
+577
+00:27:21,614 --> 00:27:24,435
+as I possibly could of the things I don't enjoy,
+
+578
+00:27:24,794 --> 00:27:27,044
+whether that's shopping, there were a whole number
+
+579
+00:27:27,044 --> 00:27:29,354
+of years say I didn't even shop for my own clothes.
+
+580
+00:27:29,354 --> 00:27:31,364
+I was like, I'm not wasting time in a shopping
+
+581
+00:27:31,364 --> 00:27:34,635
+center looking for clothes, any spare moment I have,
+
+582
+00:27:34,635 --> 00:27:36,675
+I'm going to spend with my kids on the weekend.
+
+583
+00:27:37,185 --> 00:27:40,094
+Um, and it made for me having a full-time Manny.
+
+584
+00:27:40,094 --> 00:27:41,774
+So I didn't have to worry about.
+
+585
+00:27:42,720 --> 00:27:45,270
+Maybe to leave early or something was happening.
+
+586
+00:27:45,570 --> 00:27:48,660
+And then I always had a backup plan because I think
+
+587
+00:27:48,660 --> 00:27:52,200
+that's where some people also get stressed situations.
+
+588
+00:27:52,200 --> 00:27:55,140
+Cause invariably the day that your plan a like
+
+589
+00:27:55,140 --> 00:27:57,390
+the kid's sick or the nanny is sick, that's
+
+590
+00:27:57,390 --> 00:27:59,550
+also the day you have a huge presentation.
+
+591
+00:27:59,550 --> 00:28:01,410
+And so does your husband, so it's
+
+592
+00:28:01,410 --> 00:28:03,270
+always good to have a backup plan.
+
+593
+00:28:03,720 --> 00:28:06,150
+Um, and so I put all of that in place to make it
+
+594
+00:28:06,150 --> 00:28:10,440
+possible for me to focus on my career and being a good.
+
+595
+00:28:11,485 --> 00:28:14,695
+Um, and what I normally tell a young woman who
+
+596
+00:28:14,695 --> 00:28:17,125
+are looking for advice is that there's no formula.
+
+597
+00:28:17,455 --> 00:28:19,254
+It actually starts with understanding.
+
+598
+00:28:19,254 --> 00:28:22,225
+What's going to make you satisfied and then setting up your
+
+599
+00:28:22,225 --> 00:28:25,315
+circumstances in a way that enables you to achieve that.
+
+600
+00:28:25,675 --> 00:28:28,405
+And for some people that might mean working part-time
+
+601
+00:28:28,405 --> 00:28:31,525
+and being home with their kids some days, um, and for
+
+602
+00:28:31,525 --> 00:28:34,615
+others, it might be half days or job sharing for others.
+
+603
+00:28:34,615 --> 00:28:36,445
+It might be taking a year off and
+
+604
+00:28:36,445 --> 00:28:38,185
+staying home or whatever it is.
+
+605
+00:28:38,985 --> 00:28:41,835
+But the, the real challenge for most people is
+
+606
+00:28:42,315 --> 00:28:45,045
+asking the tough questions of what they truly
+
+607
+00:28:45,045 --> 00:28:47,865
+want and then having the courage to create
+
+608
+00:28:47,865 --> 00:28:49,905
+the circumstances that allow them to achieve.
+
+609
+00:28:50,425 --> 00:28:51,495
+Yeah, no, I completely agree.
+
+610
+00:28:51,495 --> 00:28:55,185
+And I did very much what you did and, um, and my
+
+611
+00:28:55,185 --> 00:28:57,645
+children are now in their twenties and they are fine.
+
+612
+00:28:58,065 --> 00:28:59,925
+So it's, you know, we can do this.
+
+613
+00:28:59,955 --> 00:29:03,105
+I'm sure they're better than I know a proud mom.
+
+614
+00:29:03,525 --> 00:29:07,335
+Um, so Kelly, we have a few questions we'd like to ask them.
+
+615
+00:29:08,025 --> 00:29:09,135
+That have tuned in today.
+
+616
+00:29:09,765 --> 00:29:11,745
+Uh, the first is what is the most important
+
+617
+00:29:11,745 --> 00:29:13,695
+leadership skill for the future and why?
+
+618
+00:29:15,945 --> 00:29:17,595
+I think I would say humility.
+
+619
+00:29:18,555 --> 00:29:22,005
+Um, the reason I say humility is that you have
+
+620
+00:29:22,005 --> 00:29:24,315
+to be able to recognize when you don't have the.
+
+621
+00:29:25,350 --> 00:29:27,360
+There's a strong pressure when you're in a leadership
+
+622
+00:29:27,360 --> 00:29:30,990
+role to act and to have all the answers and the
+
+623
+00:29:30,990 --> 00:29:33,330
+minute you think, you know everything and can't
+
+624
+00:29:33,330 --> 00:29:36,900
+admit you don't, it makes you closed off to ideas.
+
+625
+00:29:36,900 --> 00:29:39,240
+So I think humility is the key to
+
+626
+00:29:39,240 --> 00:29:41,730
+learning, to openness, to new ideas.
+
+627
+00:29:42,540 --> 00:29:45,390
+And to invite in contribution from others in the team.
+
+628
+00:29:45,810 --> 00:29:48,930
+And I think the more complex problems get
+
+629
+00:29:49,230 --> 00:29:51,360
+the more foolish it would be to think that
+
+630
+00:29:51,360 --> 00:29:53,700
+any one person can have all the answers.
+
+631
+00:29:53,700 --> 00:29:57,300
+So I think that's the key attribute moving forward.
+
+632
+00:29:57,480 --> 00:29:57,660
+Yeah.
+
+633
+00:29:57,720 --> 00:29:58,440
+Great answer.
+
+634
+00:29:59,070 --> 00:30:01,290
+Uh, the second question is how important is it for
+
+635
+00:30:01,290 --> 00:30:04,470
+enterprises to build, to help build resilience,
+
+636
+00:30:04,470 --> 00:30:06,390
+to change and disruption within their employees?
+
+637
+00:30:07,800 --> 00:30:10,320
+I do think that is important.
+
+638
+00:30:10,409 --> 00:30:12,990
+I also think that given the circumstances, we've all
+
+639
+00:30:12,990 --> 00:30:16,230
+just lived through, we don't actually need to invent
+
+640
+00:30:16,230 --> 00:30:19,020
+new challenges to throw it, throw to our people.
+
+641
+00:30:19,409 --> 00:30:22,440
+I think it's been a very sort of natural time of
+
+642
+00:30:22,440 --> 00:30:25,500
+people growing in their resilience and adaptability.
+
+643
+00:30:25,860 --> 00:30:28,500
+And so I think, uh, our job is just to leverage that.
+
+644
+00:30:29,385 --> 00:30:31,665
+Uh, almost like plasticine and make sure
+
+645
+00:30:31,665 --> 00:30:34,185
+it stretches into the workplace as well.
+
+646
+00:30:34,485 --> 00:30:38,115
+And we don't just snap back into bed, bad habits or make
+
+647
+00:30:38,115 --> 00:30:41,085
+all of the learning be on the personal side for people.
+
+648
+00:30:41,325 --> 00:30:41,625
+Yeah.
+
+649
+00:30:43,125 --> 00:30:45,375
+What do you see is the next big innovation
+
+650
+00:30:45,375 --> 00:30:47,774
+in telecommunication and how do you at Optus
+
+651
+00:30:47,774 --> 00:30:49,845
+make sure the business is relevant and evolve.
+
+652
+00:30:52,215 --> 00:30:56,595
+I mean, obviously we at Apttus feel that, uh, we're building
+
+653
+00:30:56,595 --> 00:31:00,255
+the next big thing, which is the living network and where
+
+654
+00:31:00,255 --> 00:31:02,955
+that really came from is this idea that at the moment,
+
+655
+00:31:02,985 --> 00:31:07,485
+telco services are seen as a one size fits all utility.
+
+656
+00:31:07,725 --> 00:31:09,945
+You choose your plan for the month and then
+
+657
+00:31:09,945 --> 00:31:12,315
+you set it up and you've got that amount
+
+658
+00:31:12,315 --> 00:31:15,225
+of data every month from now until forever.
+
+659
+00:31:15,675 --> 00:31:17,865
+And you only think about it when you get your.
+
+660
+00:31:19,110 --> 00:31:20,939
+And actually, we don't think that
+
+661
+00:31:21,120 --> 00:31:23,010
+connectivity needs to be that way.
+
+662
+00:31:23,040 --> 00:31:26,070
+We think it's something you can dial up on the day
+
+663
+00:31:26,070 --> 00:31:28,889
+that you wanted and get an unlimited day-to-day or a
+
+664
+00:31:28,889 --> 00:31:32,250
+speed boost if you need to or switch it off completely.
+
+665
+00:31:32,250 --> 00:31:33,780
+Like I described before.
+
+666
+00:31:34,080 --> 00:31:38,040
+Um, if you want a digital detox day, um, we think you should
+
+667
+00:31:38,040 --> 00:31:40,919
+be able to use your connectivity in a way that actually
+
+668
+00:31:40,919 --> 00:31:44,520
+suits your needs and adds to your whole experience on the.
+
+669
+00:31:45,560 --> 00:31:47,210
+And so we've got a range of really great
+
+670
+00:31:47,210 --> 00:31:49,250
+features that we're rolling out as part of
+
+671
+00:31:49,280 --> 00:31:51,800
+making the network come alive in your fingertips.
+
+672
+00:31:52,070 --> 00:31:54,350
+They're all accessible from within our app.
+
+673
+00:31:54,620 --> 00:31:57,500
+So at your fingertips, they look really, really simple.
+
+674
+00:31:57,889 --> 00:31:59,930
+And we think that that will transform how people
+
+675
+00:31:59,930 --> 00:32:03,320
+think of their connectivity, um, to something they can
+
+676
+00:32:03,320 --> 00:32:07,070
+actually control, influence use, and that will provide,
+
+677
+00:32:07,160 --> 00:32:10,940
+um, more richness to their lives in the moments that.
+
+678
+00:32:11,730 --> 00:32:12,000
+Great.
+
+679
+00:32:13,230 --> 00:32:16,020
+Um, so question about the employment engagement level.
+
+680
+00:32:16,050 --> 00:32:18,630
+Um, the question is what was the employment
+
+681
+00:32:18,630 --> 00:32:20,610
+engagement level at Optus pre COVID?
+
+682
+00:32:21,120 --> 00:32:23,040
+Um, and how does this compare to your projected
+
+683
+00:32:23,040 --> 00:32:24,870
+employment engagement levels and five years?
+
+684
+00:32:24,870 --> 00:32:26,070
+So we talked about the growth, but we
+
+685
+00:32:26,070 --> 00:32:29,130
+didn't talk about what the COVID impact.
+
+686
+00:32:29,370 --> 00:32:29,430
+Yeah.
+
+687
+00:32:30,170 --> 00:32:32,660
+Um, look, it it's really difficult to
+
+688
+00:32:32,660 --> 00:32:35,450
+answer what the COVID impact is going to be.
+
+689
+00:32:36,020 --> 00:32:38,930
+Um, I think, cause it's been in multiple stages,
+
+690
+00:32:39,890 --> 00:32:44,850
+I think, uh, last year, COVID probably had a
+
+691
+00:32:45,210 --> 00:32:49,080
+slightly positive impact on our employee engagement.
+
+692
+00:32:49,110 --> 00:32:50,850
+I think all the initiatives we did had a huge
+
+693
+00:32:50,850 --> 00:32:55,350
+impact, but I think it was also partly, uh, the
+
+694
+00:32:55,409 --> 00:32:59,129
+nature of, of, of the work that we do here at Optus
+
+695
+00:32:59,129 --> 00:33:02,520
+being so purposeful and relevant in a pandemic.
+
+696
+00:33:02,940 --> 00:33:04,950
+I mean, suddenly everybody was relying on our
+
+697
+00:33:04,950 --> 00:33:07,350
+services to work from home school, from home.
+
+698
+00:33:08,205 --> 00:33:10,695
+Connect to their loved ones, excess the content they
+
+699
+00:33:10,695 --> 00:33:15,585
+wanted to without the internet, without access to your
+
+700
+00:33:15,585 --> 00:33:19,125
+phone and, and all the data that we provide, uh, people
+
+701
+00:33:19,125 --> 00:33:21,735
+wouldn't have been able to cope through the pandemic.
+
+702
+00:33:21,735 --> 00:33:23,475
+So there was a huge sense of purpose
+
+703
+00:33:23,475 --> 00:33:25,215
+that I think gave an uplift here.
+
+704
+00:33:25,755 --> 00:33:27,435
+And I think also everything we did to
+
+705
+00:33:27,435 --> 00:33:29,985
+support our employees, their mental wellness,
+
+706
+00:33:30,315 --> 00:33:33,045
+launching up the sport fitness, which was free.
+
+707
+00:33:33,930 --> 00:33:36,540
+Classes for all of our customers and our people.
+
+708
+00:33:37,050 --> 00:33:39,120
+I think all of that made a big difference and
+
+709
+00:33:39,120 --> 00:33:41,640
+gave us the opportunity to demonstrate even
+
+710
+00:33:41,640 --> 00:33:43,680
+more clearly how much we care for our people.
+
+711
+00:33:44,340 --> 00:33:46,440
+I think this year, it might be a bit different.
+
+712
+00:33:46,470 --> 00:33:47,820
+We've just launched our employee
+
+713
+00:33:47,820 --> 00:33:50,010
+survey after four months of lockdown.
+
+714
+00:33:50,520 --> 00:33:52,110
+Um, and in Melbourne many more.
+
+715
+00:33:52,110 --> 00:33:53,910
+I mean, Melbourne is the city with the
+
+716
+00:33:53,910 --> 00:33:56,520
+most lockdown days of any city globally.
+
+717
+00:33:56,940 --> 00:33:58,920
+And I think there are people out there who are just
+
+718
+00:33:58,920 --> 00:34:04,725
+generally a bit depressed and, um, Not really loving life.
+
+719
+00:34:05,640 --> 00:34:05,760
+Yeah.
+
+720
+00:34:05,910 --> 00:34:09,810
+I don't know how that's going to affect employee engagement.
+
+721
+00:34:10,139 --> 00:34:13,380
+My hope is that if it does affect it, it's a temporary
+
+722
+00:34:13,409 --> 00:34:16,500
+aberration and our nice sort of upward trajectory.
+
+723
+00:34:16,860 --> 00:34:18,720
+But I think we'd be crazy to assume
+
+724
+00:34:18,720 --> 00:34:20,580
+that the generals like Geist out there.
+
+725
+00:34:20,580 --> 00:34:21,600
+It doesn't have an impact.
+
+726
+00:34:21,630 --> 00:34:23,970
+We're just a microcosm of society.
+
+727
+00:34:24,570 --> 00:34:27,420
+Um, and, uh, I do think there's been a little
+
+728
+00:34:27,420 --> 00:34:29,340
+bit of a dampening of people's spirits.
+
+729
+00:34:29,880 --> 00:34:31,980
+Through the lockdowns as is understandable.
+
+730
+00:34:32,190 --> 00:34:32,409
+Yeah.
+
+731
+00:34:32,449 --> 00:34:33,779
+We're doing everything we can to
+
+732
+00:34:33,779 --> 00:34:35,070
+support our people through it.
+
+733
+00:34:35,489 --> 00:34:38,850
+I mean, including, we landed up, um, sending UDIs
+
+734
+00:34:38,850 --> 00:34:42,659
+to every Optus employee, uh, and that's because
+
+735
+00:34:42,810 --> 00:34:45,330
+I wanted to give everybody a hug during the
+
+736
+00:34:45,330 --> 00:34:48,000
+lockdown and, uh, we kept challenging the team.
+
+737
+00:34:48,610 --> 00:34:50,740
+What's going to feel like a nice warm hug.
+
+738
+00:34:50,740 --> 00:34:52,960
+And they came up with the idea of hoodies.
+
+739
+00:34:53,020 --> 00:34:55,030
+And so we sent one to every person.
+
+740
+00:34:55,600 --> 00:34:58,000
+Um, and then of course all the other
+
+741
+00:34:58,060 --> 00:34:59,680
+more traditional forms of support.
+
+742
+00:34:59,680 --> 00:35:02,290
+So hopefully that's made a difference, but
+
+743
+00:35:02,290 --> 00:35:04,960
+we, we definitely recognize that the general
+
+744
+00:35:04,960 --> 00:35:07,390
+sentiment out there is gonna affect engagement.
+
+745
+00:35:07,450 --> 00:35:07,660
+Yeah.
+
+746
+00:35:07,660 --> 00:35:09,070
+Look, and there's no doubt that when people
+
+747
+00:35:09,070 --> 00:35:12,190
+feel cared for that, they're going to.
+
+748
+00:35:12,960 --> 00:35:15,690
+Happier and more positive about the work that they're doing.
+
+749
+00:35:15,690 --> 00:35:18,240
+So, um, you know, good on you for doing that.
+
+750
+00:35:18,240 --> 00:35:20,280
+I think that's, that's brilliant for your people.
+
+751
+00:35:20,850 --> 00:35:22,890
+Um, the last question from those
+
+752
+00:35:22,890 --> 00:35:25,320
+tuning in today is about AI.
+
+753
+00:35:25,320 --> 00:35:27,120
+So what is your perspective on AI
+
+754
+00:35:27,540 --> 00:35:29,400
+and use of robotics in the workplace?
+
+755
+00:35:29,400 --> 00:35:32,070
+And does Optus have a plan for automate automation of.
+
+756
+00:35:33,525 --> 00:35:37,395
+Yeah, it's a great question because, um, I think AI
+
+757
+00:35:37,455 --> 00:35:39,495
+and robotics, I mean, there's a whole spectrum and we
+
+758
+00:35:39,495 --> 00:35:41,715
+could probably have a two hour conversation on this.
+
+759
+00:35:42,135 --> 00:35:45,465
+Um, they're, they're obviously all, um, very important
+
+760
+00:35:45,555 --> 00:35:48,795
+and have a role to play in the Apttus of the future.
+
+761
+00:35:49,215 --> 00:35:53,205
+So, um, when it comes to robotics and automation, there's
+
+762
+00:35:53,205 --> 00:35:55,845
+a number of processes that we still do that are manual.
+
+763
+00:35:56,320 --> 00:35:59,590
+That could be automated to get a more reliable and
+
+764
+00:35:59,590 --> 00:36:02,620
+predictable result for our customers, uh, and be done
+
+765
+00:36:02,620 --> 00:36:05,650
+faster and cheaper, which also benefits our customers.
+
+766
+00:36:05,650 --> 00:36:09,040
+So, um, we do have a program where we have been
+
+767
+00:36:09,070 --> 00:36:12,250
+automating and deploying bots to do things.
+
+768
+00:36:12,670 --> 00:36:16,300
+Um, and then we also have been embracing artificial
+
+769
+00:36:16,300 --> 00:36:18,730
+intelligence and natural language processing.
+
+770
+00:36:19,240 --> 00:36:22,180
+Without Apttus assistant, which is, uh,
+
+771
+00:36:22,540 --> 00:36:25,810
+a piece of AI technology that responds to
+
+772
+00:36:25,810 --> 00:36:28,390
+customer's queries when they are in the app.
+
+773
+00:36:28,390 --> 00:36:29,410
+And they message us.
+
+774
+00:36:29,410 --> 00:36:31,870
+It's the first line of response.
+
+775
+00:36:32,290 --> 00:36:35,020
+And actually during all the lockdowns, we dial that
+
+776
+00:36:35,020 --> 00:36:38,770
+up from sort of answering 5% of questions to answering
+
+777
+00:36:38,770 --> 00:36:42,399
+more than 30% of people's questions on its own unaided.
+
+778
+00:36:42,879 --> 00:36:45,339
+So that's a very smart piece of technology.
+
+779
+00:36:45,339 --> 00:36:46,750
+It's constantly learning.
+
+780
+00:36:47,230 --> 00:36:49,480
+Every question, a customer asks makes
+
+781
+00:36:49,480 --> 00:36:51,730
+the AI smarter and more accurate.
+
+782
+00:36:52,210 --> 00:36:54,910
+Um, and that is helping us get customers, their answers
+
+783
+00:36:54,910 --> 00:36:59,290
+faster, um, without having to wait to speak to someone
+
+784
+00:36:59,320 --> 00:37:01,810
+or for someone to answer their message manually.
+
+785
+00:37:02,320 --> 00:37:04,780
+Um, and hopefully that can continue
+
+786
+00:37:04,780 --> 00:37:06,580
+to improve over time as well.
+
+787
+00:37:06,880 --> 00:37:08,650
+There's also some very interesting AI that
+
+788
+00:37:08,650 --> 00:37:10,870
+gets applied to data and passion in this.
+
+789
+00:37:10,870 --> 00:37:12,670
+That's helping us develop our
+
+790
+00:37:12,670 --> 00:37:14,350
+network plans, where we should put a.
+
+791
+00:37:14,850 --> 00:37:16,770
+Where we should make our next incremental
+
+792
+00:37:16,770 --> 00:37:20,550
+investment in our, uh, tower network, um,
+
+793
+00:37:20,580 --> 00:37:23,520
+and, uh, helping us optimize our service.
+
+794
+00:37:23,759 --> 00:37:26,670
+So lots of very interesting applications.
+
+795
+00:37:26,700 --> 00:37:28,680
+And I think it's almost an area where the skies.
+
+796
+00:37:29,655 --> 00:37:31,665
+And we just need more smart people asking
+
+797
+00:37:31,665 --> 00:37:34,485
+the right questions and then developing the
+
+798
+00:37:34,485 --> 00:37:37,545
+solutions to, to go out and solve those cases.
+
+799
+00:37:38,115 --> 00:37:39,645
+Yeah, that sounds very exciting.
+
+800
+00:37:40,155 --> 00:37:42,015
+Um, now I said that that might be the
+
+801
+00:37:42,015 --> 00:37:43,635
+final question, but we're not quite done.
+
+802
+00:37:45,135 --> 00:37:47,355
+Um, we're going to do things a bit differently.
+
+803
+00:37:47,385 --> 00:37:48,915
+Um, and so I have some questions for
+
+804
+00:37:48,915 --> 00:37:50,865
+you to answer, uh, in 30 seconds.
+
+805
+00:37:51,790 --> 00:37:52,650
+Oh, my goodness.
+
+806
+00:37:53,880 --> 00:37:55,380
+Just quick question, quick answer.
+
+807
+00:37:57,810 --> 00:38:00,270
+Um, tell us something about you that we may not know.
+
+808
+00:38:01,510 --> 00:38:03,570
+I'm pretty much an open book.
+
+809
+00:38:03,570 --> 00:38:04,830
+What you see is what you get.
+
+810
+00:38:04,830 --> 00:38:05,730
+If anything I'm too.
+
+811
+00:38:06,435 --> 00:38:07,845
+I dunno for those who don't know.
+
+812
+00:38:07,845 --> 00:38:10,755
+I had a bet with Dan Ricardo that, uh, if
+
+813
+00:38:10,755 --> 00:38:14,055
+he, if he won a race, I would do a Shui.
+
+814
+00:38:14,415 --> 00:38:16,755
+Uh, and when we all have the number one market
+
+815
+00:38:16,755 --> 00:38:19,245
+share in mobile, he's going to do a shoe for us.
+
+816
+00:38:19,245 --> 00:38:21,435
+So he did when Monza and I landed
+
+817
+00:38:21,435 --> 00:38:23,565
+up doing a Shui and people loved it.
+
+818
+00:38:23,654 --> 00:38:25,665
+I thought it was kind of embarrassing and
+
+819
+00:38:25,665 --> 00:38:27,705
+I just emailed it to him, but then I was
+
+820
+00:38:27,705 --> 00:38:30,315
+encouraged to post it and post it into it.
+
+821
+00:38:30,315 --> 00:38:30,884
+So when does he do.
+
+822
+00:38:32,130 --> 00:38:34,680
+Um, hopefully soon, hopefully soon.
+
+823
+00:38:35,130 --> 00:38:36,930
+Uh, what's your favorite Optus offering?
+
+824
+00:38:36,940 --> 00:38:39,540
+So if you were a customer, what would be your favorite part?
+
+825
+00:38:40,490 --> 00:38:43,050
+I mean, it's like asking me about my favorite children.
+
+826
+00:38:43,050 --> 00:38:45,780
+So it's a little bit of Maine, but I do have a soft spot
+
+827
+00:38:45,780 --> 00:38:49,500
+for donate your data, um, which allows our customers
+
+828
+00:38:49,500 --> 00:38:53,820
+to, from within their app, donate their unused data to
+
+829
+00:38:53,850 --> 00:38:56,790
+underprivileged kids who really need that data in order to.
+
+830
+00:38:57,600 --> 00:39:00,150
+Do their homework at school and connect with their friends.
+
+831
+00:39:00,150 --> 00:39:01,680
+I think it's a beautiful offering.
+
+832
+00:39:01,980 --> 00:39:03,060
+It was very unique.
+
+833
+00:39:03,060 --> 00:39:05,520
+And so it does have it a special place.
+
+834
+00:39:06,210 --> 00:39:06,450
+Yeah.
+
+835
+00:39:06,450 --> 00:39:08,610
+I can understand why, um, Kelly
+
+836
+00:39:08,610 --> 00:39:10,170
+Optus is such a well-known brand.
+
+837
+00:39:10,200 --> 00:39:12,780
+Can you tell us something about Optus that we may not know?
+
+838
+00:39:13,500 --> 00:39:16,350
+Well, I think everybody knows us for our mobile
+
+839
+00:39:16,350 --> 00:39:19,890
+solutions, our connectivity, um, home internet.
+
+840
+00:39:21,134 --> 00:39:22,725
+Getting the latest phones.
+
+841
+00:39:22,814 --> 00:39:24,765
+Um, but I think what people don't know is
+
+842
+00:39:24,765 --> 00:39:27,645
+that we're also the preeminent provider
+
+843
+00:39:27,674 --> 00:39:30,105
+of satellite services in the country.
+
+844
+00:39:30,435 --> 00:39:32,984
+So we fly a fleet of satellites.
+
+845
+00:39:33,075 --> 00:39:36,915
+Um, we also fly NBN sky muster satellites.
+
+846
+00:39:37,365 --> 00:39:41,835
+Uh, we work with the department of defense and we, um,
+
+847
+00:39:41,895 --> 00:39:45,585
+are very proud of that capability, which was one that, um,
+
+848
+00:39:45,674 --> 00:39:49,185
+Optus has had for many years, uh, originally acquiring us.
+
+849
+00:39:50,115 --> 00:39:52,755
+And it also means that we get to hire some very unique
+
+850
+00:39:52,785 --> 00:39:57,075
+people and train people on, um, some capabilities that
+
+851
+00:39:57,075 --> 00:40:00,705
+are really important, uh, and, and important capabilities
+
+852
+00:40:01,305 --> 00:40:05,685
+that need to be, uh, housed in Australia, sovereign in
+
+853
+00:40:05,685 --> 00:40:08,745
+Australia to make sure that in the future, we've got a
+
+854
+00:40:08,745 --> 00:40:14,505
+burgeoning, um, growth area in, in satellites and space.
+
+855
+00:40:15,645 --> 00:40:16,935
+I think not a lot of people know
+
+856
+00:40:16,935 --> 00:40:18,315
+that we have that capability.
+
+857
+00:40:18,345 --> 00:40:19,035
+No, certainly.
+
+858
+00:40:19,035 --> 00:40:19,665
+I didn't know that.
+
+859
+00:40:20,024 --> 00:40:24,585
+How do you keep up your team's spirits during well,
+
+860
+00:40:24,615 --> 00:40:27,285
+actually through COVID, but also now going in, you
+
+861
+00:40:27,285 --> 00:40:29,535
+know, we talked about the fact that it's difficult,
+
+862
+00:40:30,024 --> 00:40:31,634
+what's the one thing that you think is keeping.
+
+863
+00:40:32,745 --> 00:40:33,674
+Oh, the spirit.
+
+864
+00:40:33,705 --> 00:40:35,174
+I think that they love working
+
+865
+00:40:35,174 --> 00:40:36,615
+on all these innovative projects.
+
+866
+00:40:36,645 --> 00:40:39,285
+But if I was to say the real thing is investing
+
+867
+00:40:39,285 --> 00:40:41,895
+in the capability development of our people, I've
+
+868
+00:40:41,895 --> 00:40:44,895
+been very passionate about championing, um, what
+
+869
+00:40:44,895 --> 00:40:47,924
+we call Apttus U Apttus university, which is,
+
+870
+00:40:47,984 --> 00:40:50,415
+um, working with different universities to offer
+
+871
+00:40:50,415 --> 00:40:53,265
+micro-credentials to our people in emerging fields.
+
+872
+00:40:54,090 --> 00:40:56,820
+AI data and analytics, et cetera.
+
+873
+00:40:57,210 --> 00:40:59,790
+And I think there is nothing that lift people's spirits
+
+874
+00:40:59,790 --> 00:41:02,760
+more than a genuine investment in their capability, in.
+
+875
+00:41:04,065 --> 00:41:06,705
+Have you kept your spirits up during COVID because you're,
+
+876
+00:41:06,705 --> 00:41:09,815
+you know, you're very optimistic and positive and, and
+
+877
+00:41:09,825 --> 00:41:11,595
+you know, it can't all have been fun for you either.
+
+878
+00:41:12,255 --> 00:41:12,435
+Yeah.
+
+879
+00:41:12,435 --> 00:41:14,385
+I mean, they would definitely difficult times,
+
+880
+00:41:14,385 --> 00:41:18,165
+but, you know, I, I think I am optimistic
+
+881
+00:41:18,165 --> 00:41:20,115
+because I really believe in what we're doing.
+
+882
+00:41:20,115 --> 00:41:24,945
+We are adding enormous value to Australia, to all of
+
+883
+00:41:24,945 --> 00:41:27,825
+our customers, to our people, to our shareholders.
+
+884
+00:41:27,825 --> 00:41:30,345
+So I'm really motivated to do a great job for all of them.
+
+885
+00:41:31,110 --> 00:41:33,420
+And I do get a lot of love and support from
+
+886
+00:41:33,420 --> 00:41:35,970
+my family, my friends, and I get a lot of
+
+887
+00:41:35,970 --> 00:41:37,680
+energy from the people that I work with.
+
+888
+00:41:37,680 --> 00:41:41,760
+So I just have this sense of the more energy I put in.
+
+889
+00:41:41,790 --> 00:41:43,440
+The more energy is created in a
+
+890
+00:41:43,440 --> 00:41:45,510
+positive way for everybody to Sharon.
+
+891
+00:41:45,900 --> 00:41:46,000
+Yeah.
+
+892
+00:41:46,000 --> 00:41:47,370
+And I can feel the energy just sitting
+
+893
+00:41:47,370 --> 00:41:49,800
+here, I'm going to leave energized.
+
+894
+00:41:50,250 --> 00:41:51,810
+Um, what keeps you up?
+
+895
+00:41:54,105 --> 00:41:57,795
+Uh, yeah, it's very funny because I got asked this
+
+896
+00:41:57,795 --> 00:42:00,345
+at, at, uh, in front of the whole company when we were
+
+897
+00:42:00,375 --> 00:42:04,605
+we're launching, um, um, we, we do a launch event at
+
+898
+00:42:04,605 --> 00:42:07,035
+the beginning of each year and I got asked that question
+
+899
+00:42:07,035 --> 00:42:09,375
+and I said, you know, honestly, I lie awake at night
+
+900
+00:42:09,405 --> 00:42:13,545
+thinking, why do people not all switched to Optus?
+
+901
+00:42:14,535 --> 00:42:17,325
+I do lie and think about that because we have.
+
+902
+00:42:18,450 --> 00:42:19,200
+Great coverage.
+
+903
+00:42:19,200 --> 00:42:22,680
+We cover 98.5% of the population, and we're
+
+904
+00:42:22,710 --> 00:42:26,460
+20% cheaper than the main incumbent competitor.
+
+905
+00:42:26,850 --> 00:42:28,560
+And we give people up to sport,
+
+906
+00:42:28,590 --> 00:42:31,050
+which has free football and fitness.
+
+907
+00:42:31,530 --> 00:42:34,020
+And we've got the living network that nobody else does.
+
+908
+00:42:34,080 --> 00:42:36,120
+And our service is better than the others.
+
+909
+00:42:36,210 --> 00:42:36,360
+Oh.
+
+910
+00:42:36,360 --> 00:42:38,700
+And we have the fastest 5g in Australia.
+
+911
+00:42:39,360 --> 00:42:40,050
+So why.
+
+912
+00:42:40,875 --> 00:42:43,245
+Why doesn't the whole of Australia switch to office.
+
+913
+00:42:43,515 --> 00:42:46,215
+That's what I lie awake at night thinking,
+
+914
+00:42:46,275 --> 00:42:48,555
+what else do we need to do to make this a
+
+915
+00:42:48,555 --> 00:42:50,775
+very obvious decision for every customer?
+
+916
+00:42:51,225 --> 00:42:52,665
+So you're thinking about the big
+
+917
+00:42:52,665 --> 00:42:55,515
+issues, which is so that's a good thing.
+
+918
+00:42:56,055 --> 00:42:57,945
+Um, this is actually the final question.
+
+919
+00:42:57,945 --> 00:42:59,595
+So if you could give emerging leaders
+
+920
+00:42:59,595 --> 00:43:00,915
+one piece of advice, what would.
+
+921
+00:43:03,390 --> 00:43:07,529
+Um, one piece of advice is so hard and in an untitled way.
+
+922
+00:43:07,920 --> 00:43:10,950
+Um, but I think I would tell people to just pursue.
+
+923
+00:43:12,870 --> 00:43:14,430
+Challenging roles at the core
+
+924
+00:43:14,430 --> 00:43:15,720
+of the business that they're in.
+
+925
+00:43:16,110 --> 00:43:18,840
+I think a lot of people drift to the periphery without
+
+926
+00:43:18,840 --> 00:43:22,230
+realizing it, but you want to put your energy into solving
+
+927
+00:43:22,260 --> 00:43:26,040
+big problems for the company and problems at the core
+
+928
+00:43:26,040 --> 00:43:29,250
+of what they do so that you actually get exposure to the
+
+929
+00:43:29,250 --> 00:43:33,060
+real leavers that make a difference for that company, but
+
+930
+00:43:33,060 --> 00:43:36,330
+also can then feel the impact and maximize your learning.
+
+931
+00:43:36,330 --> 00:43:36,510
+So.
+
+932
+00:43:37,230 --> 00:43:40,290
+I guess gravitate towards the difficult, challenging
+
+933
+00:43:40,290 --> 00:43:43,140
+core areas and not away from those, just because
+
+934
+00:43:43,140 --> 00:43:45,150
+it feels a bit easier and more rewarding.
+
+935
+00:43:45,480 --> 00:43:46,650
+Fantastic insights.
+
+936
+00:43:46,860 --> 00:43:48,990
+Thank you so much for joining us today, Kelly.
+
+937
+00:43:49,320 --> 00:43:49,980
+Thank you.
+
+938
+00:43:49,980 --> 00:43:51,960
+It was great to habitat, right.
+
+939
+00:43:51,960 --> 00:43:52,470
+Thank you.
+
+940
+00:43:52,470 --> 00:43:54,930
+And thank you to everyone who has joined us today.
+
+941
+00:43:55,290 --> 00:43:56,280
+And we look forward to seeing you
+
+942
+00:43:56,280 --> 00:43:57,780
+again for another meet the seeds.
 

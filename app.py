@@ -1,4 +1,5 @@
 import os
+from bcrypt import re
 from flask import Flask, render_template, request, flash, redirect, url_for, send_file, send_from_directory, send_file, current_app
 from werkzeug.utils import secure_filename
 from main import Refine
@@ -44,6 +45,9 @@ def upload_file():
             file.save(os.path.join(app.config['UPLOAD_FOLDER'], 'upload.srt'))
             refine = Refine()
             refine.run()
+            if refine.faulty_sub:
+                flash(f'Sub(s) {refine.faults} may be faulty and need to be checked manually.', category='error')
+
             flash(f'Refined {refine.short} subtitles of less than 1 second and {refine.long} subtitles of longer than 5 seconds, while {refine.not_adjusted} failed.', category='success')
             #return redirect(url_for('download_file'))
     
